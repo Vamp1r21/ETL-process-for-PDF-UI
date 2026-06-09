@@ -1,0 +1,1714 @@
+Editor:
+CherylSaponia, BAHons
+TechnicalAdvice:
+EricTupperFRINA
+Production:
+GregThompson
+AdvertisingManager:
+RosemaryLittle
+AdvertisementProduction:
+SarahHelm, BAHons
+Marketing:
+AdelaideProctor
+Publisher:
+MarkJStaunton-Lambert
+Publishedby:
+TheRoyalInstitutionofNavalArchitectsEditorial & AdvertisementOffice: 10UpperBelgraveStreetLondonSW1X8BQ, UK
+Telephone: +44 (0) 2072354622
+Telefax: +44 (0) 2072456959
+E-mail: editorial@rina.org.ukadvertising@rina.org.ukSIGNIFICANTSMALLSHIPSOF20031 © 2004. TheRoyalInstitutionofNavalArchitectsThispublicationiscopyrightundertheBerneConvention.
+Allrightsreserved. Nopartofthepublicationberepro- duced, storedinaretrievalsystem, ortransmittedwithouthepriorpermissionofthecopyrightowner. Permissionisnot, however, requiredtocopyabstractsorarticlesoncon- ditionthatafullreferencetothesourceishown.
+Multiplecopyingofthecontentswithoutpermissionisalwaysillegal.
+PrintedinEnglandbyPensordPressLtd, TramRoad, Pontllfraith, Blackwood, GwentNP2YAISBN0903055961CONTENTS SIGNIFICANTSMALLSHIPSOF2003INTRODUCTION2AORAResearchvesselanewchallengeforyard3ÁRBOLGRANDELargestOSVeverbuiltinSpain6BOCAYNAEXPRESSNewdesignforeconomicfastferry8CABALLOANDALUZMultiusevesselforMexico10CELTICEXPLORERVitalresearchvessel12C-LEADERMostechnicallyadvancedOSVintheworld? 14CMMVERACRUZandCMMCORDOBAUnusualazimuthingsterndrivesfrombuilder16EGE-5CanadiantugbuiltinTurkey18FAIRWEATHERFirstaluminiumro-rotobebuiltinUS20FARSETOFBELFASTClassleadingworkboat22FILLAPolish-builtferryforShetlandsIslandCouncil25FIRSTFERRYAluminiumcatsdeliveredtoHongKong27FIRSTRAVELStrikingferriesforHongKongHarbour29FRONTRUNNER911Ultimatesafetypatrolboat31GRAMPIANSURVEYORDieselelectricpowerforROV33HIGHVELOCITYMultitudeofapplicationsfornewcatdesign36HMSENTERPRISEFirstRNvesselwithpoddedrives38LAMMAandTAPMUNYard'sfirstpureharbourtugsforover15years40NIPPERWorkboatassistsmediaevents42RAMONLLULLOptimisationforefficientuse45REDJET4Quickturnaroundonpassengerferry47SALTENandSTEIGTINDNorwayimportsAustralianferries49SARAHPEARLOffshorevesselensuresafety51SPIRITOFKANGAROOISLANDTwofirstsformediumspeedferry53SWIFTSophisticatedhigh-speedvesselforUSNavy55THETISFirstofseriesluxurymultipurposetug57UALOBITOBodewesintroducesnewTraderseries59VIKINGENERGYGas-fuelledsupplyvessel61VOLCÁNDETINDAYAPlushinteriorsinCanaryIslandferry63ZEPHYRLargestcatsofarfromUSbuilder65SIGNIFICANTSMALLSHIPSOF2003
+Builder'sname ........................................Macduff Shipyards
+Designer..................................................Macduff Shipyards
+Vessel'sname ................................................................Aora
+Owner/Operator...........................University Marine Biological Station, , Millport
+Country........................................................................Britain
+Flag..............................................................................British
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate........................................................................- -
+Deliverydate.........................................................April 2003 Aora, completedinAprilthisyear, isa22mresearchvesseldesignedandbuiltbyMacduffShipyards, ofGrampian, Scotland. Thecompletevesselwasbuiltin-house, withsteelbeingpreparedandcutathebuilder'sprofilingdivision. ThisisamoveawayfromMacduff'susualboats, whicharemoreusuallyfishingvessels.
+ThisvesselwascommissionedbytheUniversityofLondonfortheUniversityMarineBiologicalStation, Millport (UMBSM), toperatefromthemarinestationontheIsleofCumbrae, Scotland.
+Aorareplacesasmalleresearchvesselofthesamename, andwillprovideimprovedteachingandresearchfacilitiesformarinebiologystudentsallovertheUK. Theresearchthatiscarriedoutisofnationalinterest, andincludesthecologicalimpactofhumanactivityonmarinehabitats, assessmentofthedamagemadetotheseabedbytrawlers, andtheprovisionofdataforthemanagementofishstocks.
+MainenginesconsistoftwoMitsubishiS6MPTAmodels, suppliedbyMacduffDieselsLtd. AoralsohastwoFP4-bladedpropellers, andtwohighperformancerudders. ThegearboxeswereacquiredfromReintjes, andaremodelWAF1641. ElectricalworkonAorawasub-contractedtoFraserburgh- basedcompany, RDownie.
+TECHNICALPARTICULARS
+Length, oa....................................................................22.0m
+Length, bp ...................................................................19.3m
+Breadthmoulded...........................................................7.8m
+Depth, moulded.............................................................4.2m
+Maxspeed .............................................................10.5knots
+ClassificationSocietyandNotations.....MCAreaCategory1 (BrownCode); normaloperationinMCAreaCategory2 (BrownCode) Mainengines
+Make .................................................................Mitsubishi
+Model...................................................................S6MPTA
+Number ...........................................................................2
+Outputofeachengine...................260kwat1600rev/minGearboxes
+Make.....................................................................Reintjes
+Model................................................................WAF1641
+Number ...........................................................................2
+Ratio ......................................................................5.044:1Propellers
+Number ...........................................................................2
+Pitch..........................................................................Fixed
+Diameter..............................................................1600mm
+Openornozzled ......................................................OpenAuxiliaryEngines
+Make .................................................................Mitsubishi
+Model......................................................6D22T157EKW
+Number ...........................................................................2Bowthruster
+Output .......................................................................80hp
+Deckmachinery .................3xsplitrawlwinches8.0tonnescorepull;1splitnetdrum2x5tonnecorepull; slipringwinch1 (2channel) 400m, 27mmcable; slipringwinch2 (37channel) 400m, 27mmcable; 2xauxiliarywinches3tonnecorepull; landingcrane8tonne/mwithwinch; anchorwindlass2.5tonnespull; netcraneandhead80tonne/m; Gilsonwinch3.0tonnecorepullBridgelectronics
+Radarsmake/model ..........DeccaBridgemasterEradar;
+SimradRA41CLCDradar
+Videoplotter ...................................DeccaFishmasterFS
+GPSmake/model...................GN30DSimradifferentialGPSreceiver
+GyroSimrad......................................RGC50andxxGPS
+Chartplotter ....................................................Microplot7
+Sonar..........SimradSL3590kHz, EQ6050kHz & 200kHzsinglebeam, EK6038kHz & 120kHz & 200kHzsplitbeam, GeoAcousticsSidescanSonar100kHz & 410kHz
+Trawlmonitortransducer..................................SimradITI
+Radio/telephone...............SimradRS87DSCVHF, RD68DSCVHFLaboratories
+Wetlabarea...........................................................11.4m2
+Drylabarea .............................................................9.0m2
+Power.............................230vAC50HzCleanNet24vDComplement
+Crew.............................................................................4/5
+Others ..................................................................upto12
+Numberofcabins ...........................................................9Othersignificantorspecialitemsofequipment
+Trawlmonitoringsystem .....................................Scanmar
+AORA: Researchvesselanewchallengeforyard
+Builder'sname .............................Metalships & & Docks, , SAU
+Designer.............................................................Sawicon AS
+Vessel'sname..................................................Árbol Grande
+Owner/Operator...........North Sea Commander Shipping AS
+Country......................................................................Norway
+Flag...............................................................................Spain
+Totalnumberofsistershipsalreadycompleted...............NIl
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate...............................................December 2000
+Deliverydate..........................................................May 2003 InMay2003, VigoshipyardsMetalships & DocksSAdeliveredthebiggestoffshoresupportvesselbuiltinSpain, toNorwegiancompanyNorthSeaCommanderShippingA/S. ÁrbolGrandehasatotalengthof95m, a20mbreadth, andpowerof11,560hp. Thecontractforthisoffshorevesselamountsto35millionanditbeganbuildinginJanuary2002.
+ÁrbolGrande (meaningBigTree) willperformrescueoperationsathigh-seaoilrigs. HerfirstdestinationwastheGulfofMexico, whereshehasafive-yearcontractwiththeMexicancompanyDiavaz. CrewillbeSpanishandwillconsistof20people.
+Themostremarkablefeaturesabouthisvesselarenotitsdimensions, butheup-to-datetechnologyusedinitsbuildingprocess, aswellastheabundanceofelectronicdevices, whichmakesitanextremelysafevesselwithoptimalmanoeuvrability. Thisisduetofivepropellers, threeofwhichareazimuthing.
+ÁrbolGrandealsohasanautomaticdynamicpositioningsystem, heliport, deckmoonpool, androomfor200peopleintotal.
+Allequipmentsinstalledinthevesselcomplywiththemostdemandingqualitystandardsinshipbuilding. Withinitselectricdieselpropulsionsystem, ÁrbolGrandehasfourdieselgeneratorsamountingto8680kW. Propulsionconsistsofivepropellers, twofwhichare2400kWazimuthpropellers; acompassbowazimuthpropellerof1200kWandtwothertransversaltunnelpropellerslocatedfore, whichareof900kWeach. Allthesepropellersprovidethevesselwithanoptimalmanoeuvrability.
+Thevesselalsohasaredundantdynamicpositioningsystem (DPII) whichallowsitomaintainitspositionautomaticallywithanaccuracyof1m2underadversemeteorologicalconditions (uptoforce9winds). Furthermore, ÁrbolGrandeiscompletelyautomatic, whichallowsthemonitoringandcontrolofallherservicesfromthreecomputers.
+Inordertocorrectlyconductitsupportactivities, thevesselhasbeenprovidedwithcompletedeckequipmentconsistingoftwo25tonne/mand16tonne/mauxiliarycranes, moonpoolwithydraulichatchwayandtugger-typereels, amongstotherfeatures. Furthermorethedeckiscoveredwithighthicknesswoodinordertoallowanappropriatearrangementofthecargo.
+Thevessel'safetyisoptimalandtherescuequipmentconsistsofarescueboat, fourlifeboats, rescuerafts, accordingtotheapplicableregulations, centralisedetectionandextinctionsystem, includingitscorrespondingsafetyequipment.
+TECHNICALPARTICULARS
+Length, oa..................................................................94.28m
+Length, bp .................................................................79.90m
+Breadthmoulded.......................................................20.00m
+Depth, moulded ......................................9.50m (maindeck)
+Grosstonnage...........................................................5.530gt
+Design, draught...................................................max7.00m
+Design, deadweight............................................4245tonnes
+Lightweight .........................................................3404tonnes
+Speed, service.....................................................15.45knots
+Maxspeed ...........................................................15.45knots
+Range.....................................................................16.5miles
+Dailyfuelconsumption......................................1015kg/hour
+ClassificationSocietyandNotations ........DetNorskeVeritas
+Otherimportantinternationalregulationscompliedwith ....IMO, ILO, SUEZ, PANAMAMainengines
+Make.....................................................................Wärtsilä
+Model .........................................................6L26A; 8L26A
+Number ...........................................................................2
+Outputofeachengine...........................1860kW/2480kWPropellers
+Manufacturer..................................................Rolls-Royce
+Number ...........................................................................2
+Diameter..............................................................2700mmAlternators
+Number ...........................................................................4
+Make/type..............Alconza2xNIR5680A-8LW, 2xNIR6378A-8LW
+Outputofeachset.................2x2213kVA, 2x2975kVABowthrusters
+Make ..............................................................Rolls-Royce
+Number ...........................................................................2
+Outputofeach ..................................883kW/1200rev/minSternthruster
+Make ..............................................................Rolls-Royce
+Number ...........................................................................1
+Outputofeach ................................1200kW/1800rev/min
+Deckmachinery............2xelectro-hydraulicanchormarinewinch; 2xelectro-hydraulicapstansBridgelectronics
+Radarsmake/model ..................JRC-9800-ARPADisplay
+Autopilotmake/model........SimradRoberston - AP9MKII
+GMDSSmake/model............................JotronTRONVHF
+Othercommunicationsystems.....PortableVHF-Motorola
+GPSmake/model .....................................LeicaMX420/2
+GyroC .......................................................PlathNavigate
+Chartplotter.................................ECDISFurunoFR-2110
+Enginemonitoring/firedetectionsystem...................EltekComplement
+Crew..............................................................................20
+Passengers .................................................................181
+Numberofcabins .........................................................74
+Othersignificantorspecialitemsofequipment .....Dynamic
+PositioningSystem: KongsbergSimrad; maincrane:
+TTS-Marine (9PCTO200-6041)
+ÁRBOLGRANDE: LargestOSVeverbuiltinSpain6SIGNIFICANTSMALLSHIPSOF2003
+Builder'sname...................................................Austal Ships
+Designer ............................................................Austal Ships
+Vessel'sname ...........................................Bocayna Express
+Owner/Operator ............................................Fred Olsen, , SA
+Country.........................................................................Spain
+Flag...........................................................................Spanish
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate...............................................December 2002
+Deliverydate ...................................................October 2003 TheAustal-builtcatamaranBocaynaExpresswasthisyeardeliveredtoEuropeanoperatorFredOlsen, SA.
+Thisvesselisthefirstofanewbreedofmedium-sizedAutoExpresscatamaransthathavebeendesignedwithaspecificfocusonlowacquisitionandrunningcosts.
+Austal'sanalysisofitsperformanceandcapacityspecificationsrevealsnoticeablyhighertransportefficiencythanpreviousfastferriesinthisizeandspeedrange. With19% greatercarcapacityBocaynaExpressislessthan9% slowerthanasimilarlysizedmonohullfastferrythathas35% morepower.
+Duringconstructioneveryeffortwasmadetosaveweightandasignificantreductionindisplacementresultedinamaximumdeadweightinexcessof300tonnes. Consequently, onseatrialstheferryachievedspeedsinexcessof40knotslightshipandjustunder36knotsloaded. Theoriginallystatedcontractspeedwas31knots. BocaynaExpressispoweredbytwo12-cylinderandtwo18-cylinderMANB&WVP185dieselswhichdriveKamewawaterjets.
+The450passengercapacitycatamaranoperatesbetweentheislandsofLanzaroteandFuerteventurandreplacesa14knotmonohullro-paxferry. Itsdesignwaspecificallydevelopedtakingtheroute'shallowaters, strongwinds, andphysicalshipsizerestrictionsintoaccount, aswellastheneedtoworkharmoniouslywiththexistingterminalinfrastructure.
+Shorturnaroundtimesarefacilitatedbythestraightforwardlayoutofthedrive-throughvehicledeck, whichisopenatbothbowandsterntosaveweightandreduceconstructioncost. Ratedforaxleloadsupto12tonnesandprovidingclearheightof4.2m, thedeckcancarrytrucksandbusesinadditiontocarsandmotorcycles. Maximumcapacityis69carsandthereare110lanemetresforheavyvehicles.
+Oneofthecabin'smainfeaturesistheloungearealocatedbetweenthebaraftandtheshopandtransversewalkwayamidships. Theloungeisfittedoutwithcomfortablearmchairsarrangedaroundcircularpedestaltablesandisfloodedwithnaturalightfromalargeskylight.
+Outboardoftheloungearearerowsofouraircraftstyleseatsthenanotheraisleandpairsofseatsalongsidethewindows. Theseatscomecompletewithfold-downtablesandinformationpockets. Thesameseatinglayoutisrepeatedintheforwardsaloonthatsurroundsacentralutilitiesblockandfacesanexpanseofaftrakedwindowsrunningthefullwidthofthecabin, providingpassengerswithviewsoverthebows. Afthereisanopensundeckandoutdoorbar.
+BocaynaExpresswilloperatewithacrewof16, includingathree-personbridgeteam. InkeepingwithFredOlsen'swishes, thebridgedoesnothavewingstations. Instead, theCaptainusestheferry'sCCTVsystemtomonitorpositionwhileberthing. FeaturedamongthearrayofmodernelectronicsonbridgeisAustalShips' MarineLinkshipcontrolandmonitoringsystem. Thisallowsextensivemonitoringofmachineryandsystemsaswellasprovidingapowerfulon-linesystemtomanageallusermanualsaswellasothership'sdrawingsandocumentation.
+TECHNICALPARTICULARS
+Length, oa....................................................................66.2m
+Length, bp ...................................................................59.0m
+Breadthmoulded.........................................................18.2m
+Depth, moulded.............................................................5.9m
+Grosstonnage............................................................2578gt
+Design, draught...........................................................2.45m
+Design, deadweight..............................................300tonnes
+Speed, service (90% MCRoutput)........................34.0knots
+Maxspeed ................................................................40knots
+Fuelconsumption ..........................................2.4tonnes/hour
+ClassificationSocietyandNotations....DetNorskeVeritas + 1A1HSLCR3PassengerCarFerryBEOMainengines
+Make ................................................................MANB&W
+Model ...............................2x18VP185and2x12VP185
+Number ...........................................................................4Outputofeachengine ...2x3500kWat1870rev/min; 2x2300kWat1840rev/minGearboxes
+Make.....................................................................Reintjes
+Model ....................................2xVLJ2230; 2xVLJ1130
+Number ...........................................................................4Gensets
+Number ...........................................................................2
+Make/type ......................................MANB&WD2866LXEWaterjets
+Make.....................2xKamewa90SII; 2xKamewa80SII
+Number ...........................................................................4Bridgelectronics
+Radarsmake/model ......RadarInterswitchUnit - 65842A
+Autopilotmake ....................................................Navipilot
+GMDSSmake..........................................................Skanti
+Othercommunicationsystems...............GitiesseGirotecnicaIMCOS
+DGPSmake/model....................................LeicaMX420/8
+Gyro ..............CPlathNavigatXMk1/HSCMod1074634
+Chartplotter .......................................TransasNavi-Sailor
+Enginemonitoring/firedetectionsystem ..........Marinelink /ConsiliumComplement
+Crew..............................................................................16
+Passengers .................................................................450
+Numberofcrewcabins...................................................8Vehicles
+Numberofvehicledecks................................................1
+Nofcars......................................................................69
+Noftrucks/trailers......110trucklanemetresand37cars
+Othersignificantorspecialitemsofequipment ........SeastatemotioncontrolInterceptors
+BOCAYNAEXPRESS: Newdesignforeconomicfastferry8SIGNIFICANTSMALLSHIPSOF2003
+Builder'sname ........................Hoop International Lobith BV
+Designer ...........................Scheepswerf de Hoop Lobith BV
+Vessel'sname .............................................Caballo Andaluz
+Owner/Operator ....................Candies Mexican Investments S DE R L DE C V
+Country.......................................................................Mexico
+Flag ..........................................................................Mexican
+Totalnumberofsistershipsalreadycompleted ............One
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate...............................................November 2002
+Deliverydate.....................................................August 2003 CaballoAndaluzisanoffshoresupport, airdivingandlightmaintenancevesselwhichworksintheMexicanpartoftheGulfofMexico. HomeportisCdelCarmenandtheoperationalareaistheCantarellfield, offthecoastoftheYucatanpenisula. CaballoAndaluzdiffersfromhersister, CaballodeTroya, inthatsheislonger, withthreewebframes (of5.4m), andshehasadivingmoonpool.
+Thengineroomislocatedforwardwiththethreedieselgenerators. Aftofthengineroomtherearetwofuelexportpumps, eachwithacapacityof40m³/hrat1.8bar. Totalfuelcapacityonboardis517m³andpartofthiscanbexportedtothirdparty.
+Amoonpoolhasbeenfittedonthecentrelineoftheship. Itcanbeopenedbyremovingtheupperandlowerplating. Aftofthemoonpoolthereisalargemptyspace, thehold. Theholdisaccessiblethroughadeckhatchandcanbeusedforstorageofvariousequipment. Thecompleteinteriorofthehullisprotectedbyadoubleskinandadoublebottom.
+Inthemaindieselgeneratoroomtherearethreedieselgeneratorsinstalled. Forwardofthedieselgeneratoroomistheswitchboardroomandthelectromotorsforthetunnelthrusters. Mainpowergenerationisviathree968kWCaterpillarengines, andthemaindistributionpowertotals480V/60Hz.
+Thecentredieselgeneratorcanbeconnectedtoeitherstarboardsideorportsideofthemaindistributionboard. Thethreedieselgeneratorscanallrunparallelandinthenormaloperationalconditiontwoenginesarerequired. Inthecaseofsevereproblemsonboard, oneazimuthingthrustercanbepowered, togetherwiththerestoftheauxiliaries, byonedieselgenerator.
+Theazimuthingthrustersarespeedcontrolledviafrequencydrivesofthe12pulsetypeorpseudo24pulse. Inthiswaytheharmonicdistortionsarereducedtoacceptablevaluesinalloperationalconditions, lessthan4%. ThetunnelthrustersforwardareofconstantspeedtypewithCP.
+Thrustermotorsforwardandaft, aswellasfrequencydrives, areallwatercooled, inordertoensuresafeoperationalsointhetropics. Thethrusteroomafthasaninsulatedeckhead (sun-radiation) andaspecialaircoolerinordertokeepthenvironmentaltemperatureinthethrusters' roomwithinacceptablelimits.
+CaballoAndaluzhasaduplexDynamicPositioningsystem (DP) withtwoindependentDifferentialGlobalPositioningSystemsandalaserscansystem. Thispowermanagementsystemisrequiredtoalwaysbeon-line.
+TheduplexDPsystemlocatedonthebridgehasbeensplitupwithonecomputerandoperatorpanelfacingforwardandonecomputerandoperatingpanelfacingaft. Normaltransitisperformedfromtheforwardbridgewhereallthenecessarycontrolsandinstrumentationsarelocatedforthis. DPoperationsarebeconductedfromtheaftbridgeandaspecialmanoeuvringconsolewasfittedforthispurpose.
+Crewaccommodationconsistsof45bedsinone, two, andfourpersoncabins. Eachcabinhasitsownshowerandw/cunit.
+TECHNICALPARTICULARS
+Length, oa..................................................................61.87m
+Length, bp .................................................................57.10m
+Breadthmoulded.......................................................12.80m
+Depth, moulded...........................................................5.50m
+Grosstonnage ...........................................................1570gt
+Displacement......................................................2120tonnes
+Design, draught...........................................................3.50m
+Design, deadweight............................................1600tonnes
+Lightweight .........................................................1040tonnes
+Speed, service.......................................................10.0knots
+Maxspeed .............................................................12.0knots
+Range .......................................................................600nm
+Dailyfuelconsumption ......................................6tonnes/day
+ClassificationSocietyandNotations.................LRS +100A1OffshoreSupportVessel, +LMC, DP-AAMainengines
+Make.................................................................Caterpillar
+Model .............................................................3508BDITA
+Number ...........................................................................3
+Outputofeachengine...........................................968kWPropellers
+Material ..............................................NiAlMarineBronze
+Manufacturer..................................................Rolls-Royce
+Number ...........................................................................2
+Pitch..........................................................................Fixed
+Diameter..............................................................2100mm
+Speed...................................................................Variable
+Specialadaptations:..........................360degAzimuthing
+Openornozzled ......................................................OpenAlternators
+Number ...........................................................................3
+Make/type .................................................CaterpillarSR4
+Output/speedofeachset ................1138kVA/900rev/minBowthrusters
+Make ..............................................................Rolls-Royce
+Number ...........................................................................2
+Outputofeach.....440kW/467rev/min, 250kW/571rev/min
+Deckmachinery....Onedeckcranetelescopic3.5tonnesat10.2m/2.2tonnesat14.4mBridgelectronics
+Radarsmake/model ...........................2xFurunoFR2115
+Autopilotmake/model ..............PartofAlstomDPsystem
+GMDSSmake/model ..................FurunoInmarsat, Jotrontransponders, NavicoVHF
+GPSmake/model .....................PartofAlstomDPsystem
+Gyro..........................................PartofAlstomDPsystem
+Enginemonitoring/firedetectionsystem .....DrosteElektroLobithBVComplement
+Crew..............................................................................45
+Numberofcabins .........................................................16
+Othersignificantorspecialitemsofequipment........fittedoutwithdieselelectricpropulsionandaduplexDPsystem; afthrusters/propellersareofvariablespeedtypewithAlstomfrequencydrives; forwardthrustersareofvariablepitchtypeandconstantspeed; electricalmotorsforthrustersaredeliveredbyAlstom; DPsystemisfittedoutwiththreereferencesystems: twoindependentDGPSandonelaserscanreferencesystem
+CABALLOANDALUZ: MultiusevesselforMexico10SIGNIFICANTSMALLSHIPSOF2003
+Builder'sname..........................................Damen Shipyards
+Vessel'sname ................................................Celtic Explorer
+Owner/Operator ....The Irish Marine Institute, , Dublin, , Ireland
+Country.......................................................................Ireland
+Flag .................................................................................Irish
+Totalnumberofsistershipsalreadycompleted..................- -
+Totalnumberofsistershipstillonorder ............................- -
+Contractdate...............................................December 2002
+Deliverydate.........................................................April 2003 DamenShipyards, Gorinchem, thisyearcompletedthecomplexandsophisticatedresearchvesselCelticExplorerfortheIrishMarineInstitute, Dublin. This65mshipwasconstructedbyDameninpartnershipwiththeVlissingenyardofRoyalScheldeandfollowstwotherimportantvesselspreviouslydeliveredtoIreland, theresearchvesselCelticVoyagerandthebuoymaintenanceshipGranuaille. TheworktobecarriedoutbythisnewvesselwillincludeaNationalSeabedSurveyinIrishwaters, performingavitalroleinmonitoringandrecordingfishstocks, oceanographictasks, andawiderangeofothermaritimeduties. ThenewvesselisonlythethirdofitskindinEuropeandrepresentsasignificantmilestoneinIrishmarineresearch.
+CelticExplorerwasorderedtoademandingspecificationrequiringcompliancewiththemoststringentrequirementsforavesselcapableofcarryingoutsophisticatedfishery, geological, andhydrographicalresearchandenvironmentalsampling. TheshiphadtocomplywithLloyd'sRegisterofShippingclass +100A1, Iceclass1D, IMC, UMS, SCMforamulti-purposeresearchvessel. ItwasalsotocomplywiththeInternationalConventiononExplorationoftheSeas (ICES) '209' reporton 'SilentFishSurveying'. CelticExplorerisclaimedtobethefirstvesselintheworldtocomplywithICES209withoutanycompromiseintherequiredsoundfrequencyrangebetween10Hzand63kHz.
+Tomeetheserequirementspecialattentionhadtobegivenindesign, construction, andfittingoutominimiseradiatedunderwaternoise, onboardacousticinterference, andvibration. Asamulti-purposevesselitwasnecessarytoensurethatequipmentandresourcescouldbechangedeasilyfrom, forexample, fisheriesworktohydrographicalsurvey.
+Thetransverselyframed, weldedsteelhullofCelticExploreris65.5minlengthoverallwithamouldedbreadthof15.0m, depthof8.4m, andesigndraughtof5.6m. Iceclassrequirementsaremetbyreinforcingtheforeshipwithintermediateframingandheaviershellplating. Theunderwaterprofileincorporatesabulbousbow, asmoothafterbodywithasinglepropeller, andprovisionforbowandsternthrusters. Internaltanksareprovidedfor400m3ofueloiland100m3ofreshwater, ballastanksforeandaft, andasemi-passiverollreductiontank. Adoublebottomisincorporatedbetweentheforeandafterpeakbulkheads.
+Inordertoassisthedeploymentofscientifictransducers, aretractablefinkeelisprovidedjustforwardofamidships.
+Thekeelislocatedinatotallyenclosedverticalsteeltrunkandcanberaisedorloweredbymeansofanelectricallypoweredwinchcontrolledfromthebridge.
+AtheheartofCelticExplorerisasophisticated 'lownoise' diesel-electricpropulsionsystemthathasbeenspeciallydevelopedforthevesselwiththeassistanceofDutchspecialistBakkerSliedrechtElektroIndustrie. Asingle, speciallydesigned, 'extremelylownoise' FPpropellerof3200mmdiameterisdirectlydriven (withoutgearbox) bytwodirectcurrent (DC) Indar, lowspeed, electricmotorscoupledintandem. EachofthelownoiseDCmotorshasamaximumpoweratingof1500kWat180rev/minwhicharefedandcontrolledbytwoBakkercustombuildigitaldrivesinasemi24-pulseconfigurationtogetherwithtwodoublewindingtransformerswithanextralow-noisemode.
+Thevesselcanachieveamaximumspeedofapproximately15.5knotsat100% MCR.
+Asingle 'high-lift' iceclassrudderiscontrolledbyanelectro-hydraulicsteeringsystempoweredbytwohydraulicpumps. Twothrustersarealsoanimportantpartofthepropulsionsystem. AnElliotGilljetpoweredbya720kWelectricmotorisinstalledinthebowandeliversamaximumomni-directionalthrustof6.2tonnes. Atransversetunnelthrusterinthestern, locatedbeneaththemainpropellershaft, hasaCPpropellerandispoweredbya400kWmotor.
+Powergenerationforthepropulsionsystemandship'smainelectricalsupplyisprovidedbythreeWärtsilädieselenginescoupledtoIndargenerators. TwoWärtsilä9L20poweredgeneratorsproduce1620kWeachandaWärtsilä6L20drivesa1080kWgenerator, allat690V. Twotransformersareusedtoprovide400Vand230Vsupplies.
+CelticExplorerisfittedwithacomprehensivearrayofwinchesandeckequipmentenablingthevesseltohandleawiderangeofisheriesresearchequipmentandnets, towedhydrographicsensors, andalsotocarryoutothermarinetasksoverthestern. Atotalofelevenwinchesareinstalledonthevessel. Fishingoperationsarecontrolledbyasophisticatedtrawlwinchandhandlingsystem, with 'auto- trawl' displaysandcontrolsonthebridge. Two30tonnesplitrawlwincheslocatedonthemainworkdeckareachfittedwith3500mofwireandhaveamaximumlinepullof30tonnesat78m/min. Apairof12tonnesGilsonwinchesarelocatedatbridgedecklevel. Threenetdrumwinchesareprovided, tworatedat35tonneslinepullandoneat45tonnesisfittedfortowingpurposesandincorporatesaconstantensioningsystem. Thetrawlgantryoperatesinconjunctionwitha5.6tonnesnet-soundingwinchaccommodating3200mof11mmdiameterwire.
+Threehydraulicallyoperatedeckcranesareprovided, onewithaliftingcapacityof120tonnes/mandtwof15tonnes/m, oneofthelatterismountedontheforedeck.
+Thecranescanalsoberadiocontrolledifrequired.
+Thetwosternmounted 'A' frameshaveliftingcapacitiesof25tonnesand10tonnes, bothataworkingradiusof3m. Aliftingframewitha 'T' configurationcanlift10tonnesandislocatedonthestarboardsideofthemainworkdeck.
+Thevessel'sanchoringequipmentcomprisestwo 'higholdingpower' anchorshandledbyanelectro-hydraulicwindlasslocatedundercover, withintheforecastle.
+Warpingheadsareincorporatedformooringandthewindlassdriveisfittedwithatensioncontroldevice.
+Asingle, verticalcapstanwitha5tonnespullisprovidedaft.
+Fullyairconditionedaccommodationisprovidedfor31persons, 12crewand19scientists. Thefacilitiesforscientificstaffonboardincludefourwell-equippedlaboratoriesforchemistry, wetfishresearch, watersamplingandryprocedures. ApurposedesignedITroomisincludedandadedicatedscientist'sofficeandmeetingroom. Provisionismadetoaccommodateadditionalscientificequipmentcontainedinlaboratorycontainersondeck.
+TECHNICALPARTICULARS
+Length, oa..................................................................65.50m
+Beam, oa ...................................................................15.00m
+Breadth, moulded........................................................15.0m
+Depth ...........................................................................8.40m
+Design, draught...........................................................5.50m
+Speed.....................................................................14.0knots
+ClassificationSocietyandNotations ............Lloyd'sRegisterofShipping100A1, Iceclass1D, LMC, UMS, SCM 'Multipurposeresearchvessel'
+Otherimportantinternationalregulationscompliedwith.....InternationalConventiononExplorationoftheSeas(ICES), '209' reportonSilentFishSurveyingMainengines
+Make.....................................................................Wärtsilä
+Model ..................................................2x9L20, 1x6L20
+Number ...........................................................................3
+Outputofeachengine.....................2x1620kW, 1x1080kWPropeller
+Manufacturer .............BakkerSliedrechtElektroIndustrie
+Number ...........................................................................1
+Pitch..........................................................................Fixed
+Diameter..............................................................3200mmBowthruster
+Make....................................................................ElliotGill
+Number ...........................................................................1
+Output ....................................................................720kWSternthruster
+Type......................................................CPtunnelthruster
+Number ...........................................................................1
+Output ....................................................................400kW
+Deckmachinery..........11winches; 3hydraulicallyoperatedeckcranes; 2higholdingpoweranchors; warpingheads; verticalcapstanComplement
+Crew..............................................................................12
+Passengers ...................................................................19
+CELTICEXPLORER: Vitalresearchvessel12SIGNIFICANTSMALLSHIPSOF2003
+Builder ................................Edison Chouest Offshore; ; North American Fabricators
+Designer........................................Edison Chouest Offshore
+Vessel'sname.........................................................C- -Leader
+Owner/Operator....................Edison Chouest Offshore/ /Shell
+Country...........................................................................USA
+Flag.................................................................................USA
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder .....Four ( (C- -Legend, , C- -Liberty, , C- -Legacy, , and unnamed) )
+Contractdate........................................................................-
+Deliverydate..................................................February 2003 C-Leader (Hull218), anoffshoresupportvessel, wascompletedatNorthAmericanFabricators (NAF) andwasdeliveredtoShellinearlyFebruary2003. ThisvesselisthefirstinaseriesofivesisterstobebuiltatNAF.
+Thesecondvesselintheseries, C-Legend (Hull219), wasdeliveredforcharterathendofJune, alsotoShell. Thenexthreevesselsintheseriesare: C-Legacy (whichwasdeliveredSeptember2003), C-Liberty (whichwasdeliveredinOctober2003), andtheasyetunnamedHull280 (whichwillbedeliveredinMarch2004).
+EdisonChouestOffshoreisfairlyuniqueintheoffshoremarineindustry, inthatitcandesignandbuildvessels, thenoftenownsandoperatesthevessels, aswellascharteringandsellingvesselsontothercompanies. EdisonChouestOffshoreclaimthathiseriesisoneofthemostechnicallyadvancedvesselsintheworld.
+C-LeaderisclassedbytheAmericanBureauofShipping, andhascertificatesfromtheUnitedStatesCoastGuard, SOLAS, aswellasMARPOL. Sheis85mlong, hasabreadthof18.28m, adepthof7.31m, andadeadweightof4811tonnes.
+SheispoweredbytwoCaterpillar3608dieselengines, andcontainsbothabowthruster, andatunnelthruster, givingheratotalpropulsionpowerof8400hp. Therearetwostandardgeneratorsonboard, andonemergencyset.
+Specialfeaturesofthesevesselsincludetwopassivetypeanti-rolltanks, andbilgekeelsforshipmotionstability. ForprecisepositioningC-LeaderhasbeenequippedwithDPS-2. Thevesselalsohastwo4tonnetuggers, andone1406kgcapacitydeckcrane.
+Lifesavingequipmentiscomprehensive, asexpectedintheoffshoreindustry, andincludestwo25-manandtwo20-manliferafts, oneSeaForce490SOLASO/Brescueboat, andalltheotherequipmentnecessaryforUSCGandSOLASclassification.
+TECHNICALPARTICULARS
+Length, oa..................................................................85.34m
+Breadth ......................................................................18.28m
+Depth ...........................................................................7.31m
+Deadweight.........................................................4811tonnes
+Draught, loadline .........................................................5.86m
+Draught, lightship ........................................................2.20m
+Cleardeck ............................................................956.251m2
+ClassificationSocietyandNotations ................ABSMalteseCrossA1 (Hull) ABSMalteseCrossAMS (Machinery) ABSLoadlineUSCGSubchapterL (OSV) andI (Cargo) SOLAS200 Marpol2001ABSDPS-2Mainengines
+Make.................................................................Caterpillar
+Model ...........................................................3608Diesels
+Number ...........................................................................2Bowthrusters
+Make ...........................1200HPswingup; 1500HPtunnel
+Number ..............................................................1ofeachSternthruster
+Make..........................................................1500HPtunnel
+Number ...........................................................................1
+Totalpropulsion.....................................................8400hp
+Generators......................2x910kW; 1x190kWemergencyBridgelectronics
+Radarmake/model................Furuno2115RadarSystem
+Navigationsystemake/model..................FurunoDGPS
+Othercommunicationsystems.......FurunoFE-700DepthSounder; FurunoNX500NavtexReceiver; FurunoRC- 1515GMDSS; Inmarsat-CFelcom12; DSCAA50WatchReceiver; DSCEncoder/DecoderTerminal; EPIRBACR406Electronics; SARTACRElectronics; SeatelSatelliteTelephone; FurunoDSC60Receiver; FurunoFM8500VHFRadios, FS1562/15SSB (SingleSidebandRadio)
+Gyro.............................................AD-100GyroConverterCapacities
+Fueloil.............................................................303,093gal
+Ballast..............................................................295,937gal
+Potablewater ....................................................32,998gal
+Drybulk..............................................323.945m3at80psi
+Liquidmud.................................................15,644barrels
+Methanol ........................................................1910barrels
+Lifesavingequipment....2x25-Maninflatableliferafts; 2x20- Maninflatableliferafts; 1xSeaForce490SOLASO/Brescueboat; otherequipmentasrequiredbyUSCG/SOLASOthersignificantorspecialitemsofequipmentShipmotion...2xpassivetypeanti-rolltanks, bilgekeels
+Positioning...............................................................DPS-2
+Tuggers ..........................................................2x4tonnes
+Deckcrane.......................................1x1406kgcapacity
+Complement ......................................................................29
+C-LEADER: MostechnicallyadvancedOSVintheworld? 14SIGNIFICANTSMALLSHIPSOF2003
+Builder..............................................Union Naval Valencia, , SA
+Vesselname....................CMM Veracruz and CMM Cordoba
+Owner/Operator....................................Corporaction Maritima Mexicana SA de CV
+Designer.............................Cintranaval/ /Union Naval Valencia
+Country.......................................................................Mexico
+Flag..................................................................................Mexico
+Totalnumberofsistershipsalreadycompleted.............Two
+Totalnumberofsistershipstillonorder.......................Two
+Contractdate.......................................................January 2002
+Deliverydate..............................................................April 2003 BuiltbyUnionNavalValenciaforCorporactionMaritimaMexicana, theseidenticaltractortugsweredeliveredinAprilthisyear. TheyaresetoworkaroundthePortofCoatzacoalcos, inMexico.
+Thesevesselshavebeenbuiltoclassnoatations +100A5TUG, +MC-AUT, FF1, andcomplywiththeShipInspectionofMexico, IMOregulationsapplicableharbourandunrestrictedoceangoingtugs, aswellastheInternationalLoadLineConvention1966, theInternationalTonnageConvention1969, theInternationalconventionforpreventionofpollutionofsea (MARPOL73/78), andtheInternationalconventionforpreventionofcollisionatsea (COLREG1972).
+These413gtugshavealengthof30.50m, amouldedbreadthof10.60m, andadepthof5.80mTheyhaveastandardhullformwithasemi-raisedforecastle.
+CMMVeracruzandCMMCordobadifferfromthebuilder'susualtugsinthatheydonothaveVoithtractors, butazimuthingsterndrives. EachtughastwoCaterpillar3606MARmainengines, withanoutputof2030kWat100rev/min. TwonozzledCPpropellersarefromSchottel, withadiameterof2500mm.
+TECHNICALPARTICULARS
+Length, oa..................................................................30.50m
+Length, bp .................................................................26.80m
+Breadthmoulded......................................................10.60.m
+Depth, moulded...........................................................5.80m
+Grosstonnage ..............................................................413gt
+Design, draught...........................................................4.40m
+Maxspeed .............................................................13.5knots
+ClassificationSocietyandNotations ......+100A5TUG, +MC- AUT, FF1
+Otherimportantinternationalregulationscompliedwith.....ShipinspectionofMexico, IMOregulationsapplicabletothiskindofvessel, InternationalLoadLineConvention1966, InternationalTonnageConvention1969, Internationalconventionforpreventionofpollutionofsea (MARPOL73/78), Internationalconventionforpreventionofcollisionatsea (COLREG1972) Mainengines
+Make.................................................................Caterpillar
+Model................................................................3606MAR
+Number ...........................................................................2
+Outputofeachengine.................2030kWat100rev/minPropellers
+Manufacturer ........................................................Schottel
+Number............................................................................2
+Pitch ...............................................................Controllable
+Diameter..............................................................2500mm
+Openornozzled ..................................................NozzledAlternators
+Number............................................................................2
+Make/type .........................................................Caterpillar
+Output/speedofeachset .............105kWat1800rev/min
+Deckmachinery..............Twohydraulicombinedwindlassandtowingwincheseachdimensionedforananchorof660kg, 150tonnesbrakecapacity, 150mnylonropeof80mm; onehydraulictowingwinch5tonnesat30m/min, 150tonnebrakecapacity, 600msteelwireof52mmwithautospoolingdeviceBridgelectronics
+Radarsmake/model..................JRCJMA3910/6BandX
+Autopilotmake/model .........................NavitronNT-921-G
+GMDSSmake/model....SkantiHF/MFTRP1251S, 2xVHFSkanti100DSC, SATBEACOMTRON40-S, Radartransponder9GHZTRON-SART, InmarsatCSCANSAT-CT, NavtexNAV-5, Telex
+GPSmake/model........................................FurunoGP-80
+Enginemonitoring/firedetectionsystem ..................AthelEfansa/AutronicaComplement
+Crew................................................................................6
+Numberofcabins ...........................................................4
+Othersignificantorspecialitemsofequipment: .........FIFI1classificationotationCMMVERACRUZandCMMCORDOBA:
+Unusalazimuthingsterndrivesfrombuilder16SIGNIFICANTSMALLSHIPSOF2003
+Builder'sname ...........................Uzmar Uzmanlar Denizcilik Tic San Ltd Sti
+Designer ......................................................Robert Allan Ltd
+Vessel'sname .............................................................EGE- -5
+Owner/Operator .........................Uzmar Uzmanlar Denizcilik Tic San Ltd Sti
+Country .......................................................................Turkey
+Flag ............................................................................Turkish
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate........................................................................- -
+Deliverydate....................................................January 2003 InJanuary2003, thehighperformancetugEGE-5wascompleted. BuiltbyUzmar-UzmanlarShippingandTradingCompanyLtd, ofIzmir, Turkey, foritsownoperation (andpotentialresale), thenewASDClass25/45tugwasdesignedbyRobertAllanLtd, andbuiltunderdirectionoftheowneratheGe-TaShipyardinTuzla, Istanbul.
+ThetughasbeenbuiltinaccordancewiththeclassificationrequirementsofBureauVeritas; I+ TUG, UnrestrictedNavigation, +AUT, MS. ItisalsobuiltforfullcompliancewithapplicableSOLAS, MARPOL, andIMOrules, andequippedtoGMDSSAreaA2requirements.
+ThepropulsionsystemcomprisesapairofDeutzModelSBV6M628dieselengines, eachrated1250kWat100rev/min, drivingSchottelSRP1010Z-drivesthroughastraight-lineshaftingsystem.
+ThiscombinationdeliversaBollardPullof46tonnesatacontinuousrating, and49.5tonnesBPmaximum. Thefreerunningspeedis12knotsaheadand10.5knotsastern.
+AllmainandauxiliarymachineryiscooledusingBloksmaboxcoolers. ElectricalpowerisprovidedbyapairofCummins, 6CTA8.3-DMdieselgensets, eachrated125kWat1500rev/min.
+ThedeckmachinerycomprisesaKraajeveldhydraulicombinationhawserwinch/windlassforward, rated35tonneslinepull, 115tonnesbrake, andahydraulicpoweredtowingwinchontheaftdeck, rated35tonneslinepulland100tonnesbrake.
+ThereisalsoaMampaeydisctypetowinghookaft, 450kNSWL, witharemote-controlledquickrelease, andatowingob-eyearrangement.
+Thetugisequippedwithafire-fightingcapabilityof1200m3/hr, providedbyanindependentdiesel- drivenUnitorfirepump. EGE-5’spumpengineisanMTU183Series, rated735kWat2300rev/min.
+EGE-5hasfullyair-conditionedaccommodationforafullive-aboardcrewofuptosevenpersons, completewithaspaciousgalley, andwell-appointedmess/loungeareaonthemaindeck. Thetugisoutfittedandfinishedtoanextremelyhighstandard, includingfeatureseldomfoundonasmallworkboatofthistype, suchasallaccommodationpanellingB- 15rated, allinteriordoorsratedtoanA-0, A-60orB- 15standardasappropriate. Thewheelhousesidedoorsaregastight, ofGRPconstruction, suppliedbyLibra.
+Alltheship'sfurnitureisconstructedofmarineplywoodcoatedwithdecorativeplasticlaminates, complementedbysolidmahoganytrimandfittings.
+Finally, allwindows, portholesframes, andoutsidexhaustpipesareofpolishedstainlessteel.
+TECHNICALPARTICULARS
+Length, oa.......................................................................25m
+Length, bp .................................................................20.80m
+Breadthmoulded............................................................10m
+Depthmoulded............................................................3.69m
+Grosstonnage.........................................................271.12gt
+Netonnage .....................................................182.68tonnes
+Design, draught...........................................................3.69m
+Speed, service ....................................11knotsat90% MCR
+Maxspeed ................................................................13knots
+Range........................................................................2640nm
+Dailyfuelconsumption .................6tonnes/dayat90% MCR
+ClassificationSocietyandNotations........BureauVeritas, I + HULL + MACHTugUnrestrictedNavigation + AUT- UMSMainengines
+Make ........................................................................Deutz
+Model ...........................................................SBV6M628
+Number ...........................................................................2
+Outputofeachengine ................1250kWat100rev/minPropellers
+Material .........................................................CUAL10NI
+Manufacturer.....................................SchottelSRP10100
+Number ...........................................................................2
+Pitch..........................................................................Fixed
+Diameter..............................................................2100mm
+Speed..............................................................280rev/min
+Openornozzled ..................................................NozzledAlternators
+Number ...........................................................................2
+Make/type....................................Cummins6CTA8.3-DM
+Output ....................................................................125kW
+Deckmachinery .....................1Kraijeveldaftowingwinch; 1Kraijeveldforesightanchorandmanoeuvringwinch; 1MampaeytowinghookBridgelectronics
+Radarsmake/model..........................2RayMarineRL80
+Autopilotmake/model..........................1RaytheonMP60
+GMDSSmake/model ..........................AREA-2, 2SailorVHFandDSCRT4822
+Othercommunicationsystems:.....1Sailor250wattsSSBHC4500
+GPS-Chartplotter.........................RayMarineRL80CRC
+Gyro...................................................RaytheonGyroStar
+Enginemonitoring......................................ScanaMoland
+Firedetection........................................................MinervaComplement
+Crew................................................................................7
+Numberofcabins ...........................................................3
+EGE-5: CanadiantugbuiltinTurkey18SIGNIFICANTSMALLSHIPSOF2003
+Builder'sname......................................Derecktor Shipyards
+Designer..........................................Nigel Gee & & Associates
+Vessel'sname.....................................................Fairweather
+Owner/Operator.............................................State of Alaska
+Country...........................................................................USA
+Flag..............................................................................USCG
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder ...........................1
+Contractdate .................................................February 2002
+Deliverydate.............................................24 February 2004 ThiscatamaranferrywasdesignedbyNigelGee & AssociatesforDerecktor'sbidontheAlaskaMarineHighwaySystemProject. Itisdesignedtobeasafe, high-speedro-ropassengerferrythatminimisescostsandcaninterfacewithexistingAMHSdocksandpiersidefacilities.
+Fairweathercancarry250passengersonthemaindeckand30largevehicles - ofthetypemostlyusedinAlaska - onthecargodeckatacontinuous-ratingservicespeedof35knotsandwithgreatcomfortuptoseastate6.
+Poweredbyfourdieselenginesandfourwaterjets, this73mcatamaranusesageosymoftheNigelGeehullformemployedinthe41mFlyingCloud, whichasbeenshowntoprovidethehighestransportefficiencyofanyhigh-speedferryofthisize. Acompletesetoftanktestshasbeencarriedout, showingverylowakewashcharacteristics.
+ClassedwithDNVMalteseCross1A1HSLC, R3andwithfullUSCGcompliancetoSOLAS/HSCodeCatB, thisaluminiumvesselisthefirstvehicleandpassengerhigh-speedferryeverbuiltintheUSanditakesadvantageofDerecktor'sexperienceandhighlevelofcraftsmanshipinthefieldofhighly-stressedaluminiumstructureconstruction.
+Themaindeckhasinteriorseatingfor150passengersintheobservationloungeforward, and104inthesnackbarareamidshipwithamixtureofairlinetyperecliningseatsandtablearrangements. Furtherseatingisprovidedinthexteriorsolariumlocatedaft. FullADAcomplianceisguaranteedthroughouthevessel.
+Dedicatedareasforvideogamesandwork/studyandafullservicesnackbarcompletetheonboardaccommodations.
+TECHNICALPARTICULARS
+Length, oa..................................................................72.00m
+Length, bp ...................................................................64.2m
+Breadthmoulded.......................................................18.00m
+Depth, moulded...........................................................5.50m
+Design, draught...........................................................2.59m
+Design, deadweight..............................................194tonnes
+Speed, service (80% MCRoutput) ..........................35knots
+Range .........................................................................500nm
+ClassificationSocietyandNotations.....DNV* 1A1HSLCR3PassengerCarFerryAE0
+Otherimportantinternationalregulationscompliedwith ............................SOLAS, HSCodeCatBMainengines
+Make..........................................................................MTU
+Model..........................................................16V595TE70
+Number ...........................................................................4
+Outputofeachengine.........................................3600kWGearboxes
+Make.....................................................................Reintjes
+Model .................................................................VLJ2230
+Number ...........................................................................4
+Outputspeed ..................................................665rev/minWaterjets
+Make/type ................................................Kamewa/90S11
+Number ...........................................................................4Bowthrusters
+Make/type..............................................Quantum/QT120
+Number ...........................................................................2
+Outputofeach .......................................................100hpVehicles
+Numberofvehicledecks................................................1
+Totalanelength..................................................245.00m
+Nofcars......................................................................35
+Noftrucks/trailers.........................................................8
+Othersignificantorspecialitemsofequipement ........Noiselevelsarebelow75dBAthroughouthevesselinterior;
+Ahelicopterpick-upareaislocatedonthetopdeck
+FAIRWEATHER: Firstaluminiumro-rotobebuiltinUS20SIGNIFICANTSMALLSHIPSOF2003
+Builder'sname.............................................VT Halmatic Ltd
+Designer................................VT Halmatic/ /T T Boat Designs
+Vessel'sname..............................................Farset of Belfast
+Owner/Operator............................................D Ferran & & Son
+Country........................................................Northern Ireland
+Flag...................................................................................UK
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder.......................One
+Contractdate .........................................................July 2002
+Deliverydate.........................................................June 2003 FarsetofBelfast, namedafteroneoftheriversflowingintoBelfastLough, isa15.40mworkboathatwasorderedatSeawork2002byDFerranandSons. ItwillbeusedforgeneraldutiesinBelfastHarbour.
+ThecraftwasfabricatedandfittedoutatVTHalmatic'sPortchesterShipyardfromasteelkitsuppliedbyCentraalstaaltoaninitialdesignfromTTBoatDesigns. Thepanelsweredeliveredcutandprofiled, with10mmplateforthebottom, sides, floors, bowandtransom, 12mmframesforthenginegirdersandaftlongitudinalsand20mmthicksheerstrakeandenginesupports.
+DesignandmanufactureisinaccordancewithLloyd'sRegisterequirementsforSpecialServiceCraftalthoughthevesselisnotclassed. HoweverthecraftiscertifiedundertheMCAWorkboatCodeCategory3 (upto20milesfromasafehaven).
+PowerisprovidedbytwinVolvoPentaD12-550dieselengines, fittedwithHalyardry-exhausts, drivingKaplantypefour-bladedpropellersinKortnozzlesthroughTwinDiscMG5114gearboxes.
+Theuseofthsenginesisafirst: itisthefirstcommercialapplicationofthefullyelectrictype.
+TheunmannedengineroomisfittedwithaPyrogenfiresuppressionsystemandthewholevesselisprotectedbyJotunPaintSystemstin-free, environmentallyfriendlypaint. ThecraftisfittedwithWagnerhydraulicsteeringandtheheatingsystemwasuppliedbyKrueger. FarsetofBelfasthasabollardpullinexcessof10tonnes.
+Thereisaclearaftdeckofferingalargeworkingareathatleadstoaraisedforedeck. Thewheelhouseisfullyprotectedbyatubularframetopreventsnaggingandamagefromooringlines. Heavy- dutywraparoundfenderingisfittedathebowandaftquarters, withasubstantialpushinglogonthebow.
+SpencerCarterwinchesandWestmoorEngineeringtowingequipmentisfittedenablingFarsetofBelfastofferaclassleadingbollardpullofapproximately14tonnes.
+Thefullyenclosedwheelhouseoffersafunctionalworkingspacewithacentrallypositionedhelmstationforwardofferingexceptionalvisibility. ThelectronicsystemisaSimradpackagethatincludesaCA42display (incorporatingradar, chartplotter, DGPSandechosounder), afluxgatecompassandVHFDSCradio. BelowdecksisalargestowageareathatincludesacrewWCandropestore.
+TECHNICALPARTICULARS
+Length, oa..................................................................15.43m
+Breadthmoulded.........................................................5.45m
+Displacement..........................................................55tonnes
+Design, draught.............................................................1.7m
+Speed, service..........................................................10knots
+Maxspeed .............................................................11.6knots
+Range .........................................600miles (ex20% reserve)
+Fuelconsumption ................................................100litres/hrOtherimportantinternationalregulationscompliedwith..designandmanufactureisinaccordancewithLloyd'sRegisterequirementsforSpecialServiceCraft; MCAWorkboatCodeCategory3 (upto20milesfromasafehaven) Mainengines
+Make...............................................................VolvoPenta
+Model...................................................................D12-550
+Number ...........................................................................2
+Outputofeachengine ..................408kWat1900rev/minGearboxes
+Make ..................................................................TwinDisc
+Model ...........................................................MG5114DC
+Number ...........................................................................2Propellers
+Material ......................................................................NAB
+Pitch..........................................................................Fixed
+Number ...........................................................................2
+Openornozzled ..................................................NozzledAlternators
+Number.........................................................1perengine
+Output/speedofeachset....................................100ampDeckmachinery
+Winch ...........................................SpencerCarter4tonne
+Firesuppression ..................................................Pyrogen
+Steelkit ........................................................Centraalstaal
+Towingequipment ........................WestmoorEngineering
+Paint..........................................................................Jotun
+Heating.................................................................Krueger
+Steering ................................................................Wagner
+Exhausts ...............................................................HalyardBridgelectronics
+Radarsmake/model ......SimradCA42NavigationCentre
+Othercommunicationsystems....SimradRD68VHF/DSC
+GPSmake/model..........SimradCA42NavigationCentre
+Chartplotter..................SimradCA42NavigationCentre
+Enginemonitoring/firedetectionsystem .............PyrogenComplement
+Crew................................................................................2
+FARSETOFBELFAST: Classleadingworkboat22SIGNIFICANTSMALLSHIPSOF2003SIGNIFICANTSMALLSHIPSOF200325
+Builder ................................Stocznia Pólnocna SA - - Northern Shipyard, , Gdansk
+Vesselname.........................................................................Filla
+Owner/Operator.............................Shetland Islands Council
+Country........................................................United Kingdom
+Flag..............................................................................British
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate.................................................28 March 2002
+Deliverydate.....................................................22 May 2003 Asaresultofatenderexerciseinearly2002StoczniaPólnocnaSA - NorthernShipyard, locatedinGdansk, Poland, wasawardedanorderforconstructionandeliveryofageneralpurposeferryfortheShetlandIslandsCouncil. ThevesselwasthesecondtobebuiltatNorthernShipyardforthisowner - previouslydeliveredwasaro-rovehicle/passengerferryLingain2002 (SignificantSmallShipsof2002). ThesevesselswerebuiltaspartsofafleetrenewalprogrammeaimedatreplacingtheageinginterislandferryfleetintheShetlandIslands. Lingawasthefirstvesselofthisprogramme.
+MacDuffShipDesign, Scotland, developedthetendertechnicalspecificationfortheShetlandIslandsCouncil. Thedetaildesign, technicalandclassificationprojectforthislatestvesselwaspreparedbyNorthernShipyardsubsidiarydesignoffice - NavalEngineering & Design. FillameetstherequirementsetbyLloyd'sRegister, theBritishMaritimeandCoastguardAgency (MCA) andEUDirective98/18/ECregardingpassengervessels.
+FillawaslaunchedinDecember2002, andthecompletedferrywasdeliveredtoherownerinMay2003andplacedintoserviceinJune2003. Thevesselhasalengthoverall35.5mandabeamof9m, andisaro-romultipurposeferrydesignedtocarryupto30passengers, ninecarsoronelorryondeckandcargoinrefrigeratedholds (selfloadandischargevia 13tonnehydraulicrane).
+FillahasbeendesignedtoperateonthelongestoftheShetlandIslandCouncil'sinterislandferryroutes - betweenLerwick, thecapitalofthearchipelago, andtheremotegroupofislandscalledOutSkerries - thisbeingafourandahalfhouroundtrip. Thevessel'spropulsionisviatwoMitsubishiDieselengines, 671kWeach, drivingtwofour-bladeCPpropellers.
+ThevesselisfittedwithtwoHRPhydraulicbowthrustersdrivenfromthemainenginegearboxes. TheshipisequippedwiththreeMitsubishigeneratingsets - twomainsetsandanemergencyset.
+RotaryvanesteeringearwasuppliedbyRolls- RoyceMarineTenfjord, totwinhighefficiencyrudders. Fireprotectionconsistsofafiredetectionsystem, supportedbyawaterdrenchingsystemtoextinguishfireinthecardeckandahigh- pressurewatervapoursystemusedintheotherinternalspaces.
+LifesavingequipmentconsistsoftwoMESstations (providedbyLiferaftSystemsAustralia) andaFRBdeliveredbyNorwegianMaritimeEquipment.
+NavigationequipmentwasprovidedbyFuruno, similartothatonLinga, andisfittedwithavoyagedatarecordersuppliedbyBroadgate. FillaisfittedwithintegratedautomationsystemUMAS, deliveredbyRolls-RoyceMarine.
+TECHNICALPARTICULARS
+Length, oa..................................................................35.50m
+Length, bp..................................................................30.30m
+Breadthmoulded.........................................................9.00m
+Depth, moulded...........................................................4.20m
+Grosstonnage..............................................................365gt
+Design, draught...........................................................3.05m
+Design, deadweight...........................................172.5tonnes
+Speed, service.....................................12knotsat85% MCR
+Maxspeed .............................................................13.5knots
+ClassificationSocietyandNotations...........LR100A1LMC, UMS, Passenger/VehicleFerry, SpecifiedRouteService, IWS
+Otherimportantinternationalregulationscompliedwith......allrequirementsoftheEUCouncilDirective98/18/EC, MCAClassBMainengines
+Make .................................................................Mitsubishi
+Model ...........................................................S12R - MPTA
+Number ...........................................................................2
+Outputofeachengine...........................................670kWGearboxes
+Make .................................................................Mekanord
+Model......................................................................400HS
+Number ...........................................................................2
+Outputspeed ..................................................295rev/minPropellers
+Material............................................NiAluminiumBronze
+Manufacturer.......................................................Kamewa
+Number............................................................................2
+Pitch...............................................................Controllable
+Diameter..............................................................1750mm
+Speed ...................................................................12knots
+Openornozzled ......................................................OpenBowthrusters
+Make ..........................................................................HRP
+Number ...........................................................................2
+Outputofeach ..................................150kWat1500rev/minDeckmachinery
+Anchor/mooring.............................................capstanSEC
+DeckcranePalfinger.....................................PK4800MD
+Lashingequipment.........................................MacGregorBridgelectronics
+Radarsmake/model.........................FurunoFR-1505Mk3
+Autopilotmake/model.......................................Robertson
+GMDSSmake/model................................................Jotron
+GPSmake/model...................NorthropGrummanMarine/ LeicaMX420
+Gyro..................................................................Robertson
+Chartplotter............................................................Furuno
+Enginemonitoring/firedetectionsystem .......Rolls-RoyceMarine/Stento/ZenitelOthersignificantorspecialitemsofequipment
+Genset...............................................................Mitsubishi
+Harbour/emergencygenerator .........................Mitsubishi
+Aircompressor........................................................Sperre
+Pumps...........................Börger/Desmi/Azcue/Grundfoss/ Hydroster
+Boxcoolers...............................................................Weka
+Grinder-polisher .......................................................Simet
+Workshopdriller ........................................................CKP
+Sewagetreatmentplant...........................................EVAC
+Fans...........................................................................Alwo
+Airhandlingunit ...................................................PBUCH
+Steeringear........................................................Tenfjord
+IntegratedAutomationSystem ..........Rolls-RoyceMarine
+Mainandemergencyswitchboards...........Elektromontaz
+Otherswitchboards ................................................Famor
+Windowsandsidescuttles.................................Bohamet
+Internaldoors........................................Hydroster/Lubmor
+Externaldoors ...................................................Meblomor
+FireFightingequipment............................................Unitor
+MassEvacuationSystem............LiferaftSystemAustralia
+Fastrescueboat.............NorwegianMaritimeEquipment
+Stripceilingsandwallpanels .................................Famos
+Woodenfurniture ..................................................Womeb
+Stainlessteelfurniture.....................................Meblomor
+High-stowingfoldingtypehatchcovers.........MacGregor
+Sternramp...................NorthernShipyard/Bosch-Rexroth
+Enginealarmsystem .............................................PraxisVehicles
+Numberofvehicledecks................................................1
+Totalanelength....................................................18.50m
+Nofcars........................................................................9
+Noftrucks/trailers.........................................................1Complement
+Crew ..............................................................................6
+Passengers ...................................................................30
+Cabins ...........................................................................4
+FILLA: Polish-builtferryforShetlandIslandsCouncilSIGNIFICANTSMALLSHIPSOF200327
+Builder...........Wang Tak Engineering & & Shipbuilding Co Ltd
+Vesselname....First Ferry IX, , First Ferry X, , and First Ferry XI
+Owner/Operator...............New World First Ferry Services Ltd
+Designer..........................................................CMCS, , Australia
+Country................................................................Hong Kong
+Flag..........................................................................Hong Kong
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder...........................Nil
+Contractdate.............................................................April 2002
+Deliverydate ..............................................................May 2003 Threenew28mhighspeedaluminiumpassengercatamarans, namedFirstFerryIX, FirstFerryXandFirstFerryXIhavebeensuccessfullydeliveredtowners, NewWorldFirstFerryServicesLtd, ofHongKong. ThesevesselswereconstructedbyWangTakEngineering & ShipbuildingCoLtd, oneofHongKong'soldestestablishedshipbuildingandrepairyardwithmorethan60yearshistory.
+ThedesignisfromAustralia'sCommercialMarineConsultingServices (CMCS). Thishullformwaselectedfromtheprovenrangeofdeepveecatamaranhullsuitableforcoastalferryoperation, whichasbeenmodifiedandrefinedinconjunctionwithWangTak'stechnicalstaffandtheowner'sexperienceinferryoperationinHongKongwaters.
+Assistinginthedevelopmentofthehullform, extensivemodeltanktestingwascarriedoutatheAustralianMaritimeCollege (AMC) inTasmania.
+Thishullformisthesymmetricaldeepveetype, whichcutsthroughthewaterinsmoothmotion. ThismatchedwiththeadvantagesoftheCMCSaerofoilmini-keelswhichgivegreatrackingandaddedprotectiontothe1016mm, five-bladedTeignbridgepropellers. Passengersarethusensuredaverycomfortableride.
+Thesevesselrunswithverylowash, areasonwhytheparticularhullformwaselectedforthisapplication. Hullscantlingdesignswerealsoselectedforobustservice. Thismatchedwiththelatestechniquesinfabrication, andhasresultedinaverysmoothfinishtothehullandeckhouse.
+Thedeckhouselayouthasbeendesignedtosuitowner'soperationalrequirements. Thealuminiumcatamaranscomfortablyseat231passengersandarepoweredbytwinMTU12V200M70 (at778kW) dieselenginesgivingthevesselatopspeedof27knotsandafullyloadedcruisespeedof25knots.
+Thehighstandardofit-outhasbeenachievedbyattentiontodetailandtheuseoflightweighthoneycombpanels. Passengerseatingisarrangedas3x5x3onthemaindeckand3x4x3ontheupperdeck, usingBeurteauxOceanTouristHBseatsfinishedintheclient'scorporatecolours. Sidewindowsarelargeandesignedforpanoramicexteriorvision. Allinteriorspacesareairconditionedwithaseawatercooledsystem. Theraisedhelmpositionatwheelhouseaffordsthemasterwithgoodall-roundvision. Helmconsoleispaciousandwellaidout.
+TECHNICALPARTICULARS
+Length, oa..................................................................28.23m
+Breadthmoulded.........................................................8.50m
+Depth, moulded...........................................................2.54m
+Grosstonnage..............................................................220gt
+Design, draught.............................................................1.0m
+Design, deadweight................................................24tonnes
+Speed, service.....................................25knots @ 85% MCR
+Maxspeed ................................................................27knots
+ClassificationSocietyandNotations..........DesignedtoLRS 'SSCPassengerCatamaranHSCG2' notationMainengines
+Make..........................................................................MTU
+Model....................................................MTU12V200M70
+Number ...........................................................................2
+Outputofeachengine ......................788kW/2100rev/minGearboxes
+Make .............................................................................ZF
+Model..................................................................ZF2500A
+Number ...........................................................................2
+Outputspeed ........................................................2.536:1Propellers
+Material.................................................Aluminiumbronze
+Manufacturer ..........................TeignbridgePropellersLtd
+Number ...........................................................................2
+Pitch..........................................................................Fixed
+Diameter..............................................................1016mmAlternators
+Number ...........................................................................2
+Make/type...................................................Perkins4TGM
+Outputofeachset ...................................................62kW
+Deckmachinery...........................................HypacwindlassBridgelectronics
+Radarsmake/model .................JRCJMA3925-6 (2units)
+Othercommunicationsystems.....VingtorPublicAddress/ Intercom, VHF (JRCJHS-25 (x2))
+Chartplotter...............................................JRCNWU-800
+Enginemonitoring..........................................MTURCS-5
+Firedetectionsystem ................................ThornSecurityComplement
+Crew................................................................................4
+Passengers .................................................................231Numberofcabins
+Uppercabin...........................................88passengers
+Maincabin...........................................143passengers
+Othersignificantorspecialitemsofequipment.....A/C - Carrierscrollcompressors @ 80,00BTU/hrx6units; McQuayairhandlerx12unitsforpassengercabins; A/C - McQuaysplitypeA/C @ 20,00BTU/hrx2units; Beurteauxpassengerseats
+FIRSTFERRY: AluminiumcatsdeliveredtoHongKongSIGNIFICANTSMALLSHIPSOF200329
+Builder'sname ................................................Image Marine
+Designer..........................................................Image Marine
+Vessel'sname..........First Travel XXXI and First Travel XXXII
+Owner/Operator..................New World First Travel Services
+Country................................................................Hong Kong
+Flag .....................................................................Hong Kong
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate...............................................November 2002
+Deliverydate ...................................................October 2003 Withthedeliveryoftwo41.4mhighlycustomisedcatamaranstoHongKong'sNewWorldFirstTravelServicesLtd, ImageMarinehasetanewbenchmarkinpurposedesignedandbuiltharbourcruisevessels. Withtheflexibilityforsightseeingandcharter/functionwork, thisorderfollowedthedeliveryofthreehigh-speedcatamaranstothesamegroupbyImageMarine'sparentcompany, AustalShips.
+FirstTravelXXIandFirstTravelXXIwillcruisethewarmerclimesofbusyHongKongHarbourataround16knots. ThevesselscombinetheNewWorldgroup'strikingorange, purple, andgreenliverywithanevenmoreye-catchingChinesegoldendragononthetopdeck. Over16mlong, thedragonsareparticularlyspectacularwhensprayingwaterfromtheirmouthsandwhenhighlightedincolourfulightshowsduringeveningcruises.
+Inadditiontotheopentopdeckwhichprovidespanoramicviews, passengerscanchoosebetweenupperandlowerenclosedeckswhichfeaturextralargesidewindowsandbroadexpansesofglassontheforwardbulkheadstomaximiseviewingopportunities. Dimmableinteriorlightingenhancestheveningandnightcruisexperiencesandamulti-lingualonboardtouristinformationsystemprovidesinsightsintothecity'sattractions.
+Thelayoutofthevesselsfeaturesloungeandtablearrangementsthroughout, withseatsfor172passengersonthemaindeckand182passengersontheupperdeck. Eachvesselcanalsocarrypassengersinwheelchairs. Otheronboardfacilitiesincludeakioskonmaindeckservingavarietyofdrinksandlightmeals, anupperdeckbarandculturalboothsprovidingexplanationsofHongKong'suniqueast-meets-westculture. Addingtothecruisexperience, avarietyofperformanceswillbestagedonboard, rangingfromagicandlivemusictotraditionalChineseactsincludingacrobatics.
+Tofacilitatethis, thevesselsarequippedwithprofessionalevelaudio-visualsystemsandpartofthemaindeckforwardconvertstoadancefloor, completewithlighting. Thisisachievedbyremovingthecentralsectionofseating, aprocessthatakesonlyashortime. Theincorporationofthesefeatures, pluscateringfacilitiesonthemaindeckandintheporthull, contributestothecatamarans' versatilityandmakesthemanattractivecharteroptionforfunctions, seminarsandentertainmentperformances.
+TECHNICALPARTICULARS
+Length, oa....................................................................41.4m
+Length, bp ...................................................................39.5m
+Breadthmoulded.........................................................11.8m
+Depth, moulded.............................................................3.5m
+Grosstonnage..............................................................694gt
+Design, draught.............................................................1.8m
+Speed, service (85% MCRoutput)...........................16knots
+Maxspeed ................................................................17knots
+Range .........................................................................300nm
+Dailyfuelconsumption ....................................400litres/hour
+ClassificationSocietyandNotations......StructuretoLloyd'sRegister, SurveytoHongKongMarineDepartmentHarbourCruiseclassMainengines
+Make..........................................................................MTU
+Model.........................................................12V200 M70
+Number ...........................................................................2
+Outputofeachengine ..................788kWat2100rev/minGearboxes
+Make .............................................................................ZF
+Model ........................................................................2500
+Number ...........................................................................2Propellers
+Material .....................................NickelAluminiumBronze
+Manufacturer................................................StoneMarine
+Number ...........................................................................2
+Pitch..........................................................................Fixed
+Openornozzled ......................................................OpenAlternators
+Number ...........................................................................2
+Make...................................................................Stamford
+Speedofeachset.........................................1500rev/minBridgelectronics
+Radarsmake/model .................................JRCJMC3925
+GPSmake/model .......................................JRCNWV700
+Enginemonitoring/firedetectionsystem ..............SalwicoComplement
+Crew................................................................................5
+Passengers .............................354 (plusonewheelchair) FIRSTRAVELXXIandFIRSTRAVEL
+XXII: StrikingferriesforHongKongharbourSIGNIFICANTSMALLSHIPSOF20031
+Builder ............................................................Dockstavarvet
+Designer..................FMV ( (Defence Material Administration) ) and Yard
+Vessel'sname .............................Front Runner 911 and 913
+Owner/Operator.....Royal Swedish Navy/ /Amphibious Corps
+Country .....................................................................Sweden
+Flag ..........................................................................Swedish
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipsordered.................................27
+Contractdate..........................................10 December 2001
+Deliverydate.................................Up until 23 October 2003 Since2001Dockstavarvethasbeenengagedinthedevelopmentofapatrolvesselwhichisafeforitspersonnelaswellasafeoperatingundercriticalconditions. Theseboatshavebeenbuiltbecauseoftherequirementsforpersonnelsafetyandsafeoperationsofpatrolcraftwhenparticipatingininternationalpeace-keepingandrescueoperations.
+Safetymeasuresusuallymeanincreasedweight, andasaresult, lowerspeed. However, DockstavarvethascombinedmodificationsofaboatbyupgradingthexistingScaniaDSI14engines. Theresultwasincreasedpower, somextra50hperengine, givingsome675hp/engineandaloadedspeedofcloseto40knotscouldbemaintained.
+Thispatrolcraft, designatedCB90HS, hasbeendevelopedtofulfilArmourProtectionLevel4 (NatoBall7.6mm). ItwillalsohaveNBCprotection. Thesafetyfeaturesinclude38mmsecurityglassinallwindows, a20mmlaminatebuildupofmultiplelayersofpolyethylenefibrecoveringthengineroom, transportroom, andwheelhouse.
+Thetransomiscoveredwitha5mmsteel, typeArmox600. Theweighthasbeenincreasedby3.8tonnes, givingafulloadisplacementof22.6tonnes. Theboatcancarryupto18men, fullyequipped, oracorrespondingamountofcargo.
+Anairconditionsystemisalsoincludedforoperationsintropicalconditions. NBCprotectionisbuiltupbyaclosedventilationsystemunderpressure, makingitpossiblefortheboatogetoutofareasofcontamination. TheCB90HSisfurthermorequippedwithspeciallyadaptedradar/chartmonitorsandcontrolpanelstoperateinfulldarknessat40knotswhenthecrewuseIRnightgoggles.
+TheCB90HSoriginatesfromaconventionalCB90, theCombatBoat90H, whichasbeenunderserialproductionfortheSwedishNavyformorethan10years. Theconceptwitharmourprotectionhasnowadaysmoreorlessbecomeanecessityandisaskedforbymoreandmorecustomersworldwide.
+TECHNICALPARTICULARS
+Length, oa ................................................................16.10m
+Length, bp .................................................................13.00m
+Breadthmoulded.........................................................3.24m
+Displacement.......................................................22.6tonnes
+Design, draught.............................................................0.9m
+Design, deadweight...............................................5.0tonnes
+Lightweight ..........................................................17.6tonnes
+Speed, service..........................................................38knots
+Maxspeed ................................................................41knots
+Range .........................................................................360nmMainengines
+Make.......................................................................Scania
+Model .......................................................DSI1452M23V
+Number ...........................................................................2
+Outputofeachengine ..................496kWat2100rev/minGearbox
+Make ..................................................CentastartclutchesAlternators
+Number ...........................................................................2
+Make/type ..............................................BoschandOnan
+Output/speedofeachset.......................2x120A, 24V + 1Onan230V, 7kWat1500rev/minWaterjets
+Make ...............................................Rolls-RoyceKamewa
+Type .......................................................................FF-410
+Number............................................................................2Bridgelectronics
+Radarsmake/model ........................DeccaBridgemaster180 (2PPI)
+Chartplotter..........................................................Transas
+Enginemonitoring/firedetectionsystem..........Halotron2BComplement
+Crew................................................................................3
+Passengers ...................................................................18
+Othersignificantorspecialitemsofequipment....3x12.7mmHMG
+FRONTRUNNER911: UltimatesafetypatrolboatSIGNIFICANTSMALLSHIPSOF20033
+Builder ...............................................Balenciaga SA Shipyard
+Designer .............................................IMT Marine Consultants
+Vesselname...............................................Grampian Surveyor
+Owner/Operator....................North Star Shipping ( (Aberdeen) )
+Country..............................................................................UK
+Flag ........................................................................................UK
+Totalnumberofsistershipsalreadycompleted...................Nil
+Totalnumberofsistershipstillonorder..............................Nil
+Contractdate.............................................................June 2001
+Deliverydate..............................................................April 2003 GrampianSurveyorwasbuiltbyBalenciagaShipyardsforNorthStarShippingofAberdeen, UK. ThevesselisintendedforperformingROVsupportincarryingoutsubseasurveyandpipelineconstructionandmaintenancetasks, aswellasforsupplydutiescarryingfreshwater, fueloilandpipes, containers, etc, toffshoreinstallations. Incommonwithmanyotherecentexamplesofthistypeofship, itfeaturesadieselelectricpowerplantforeasonsofeconomyandlowernoiselevels.
+IMT, incooperationwiththeshipowners, carriedouthemainpartofthedesign, especiallyconcentratingonsturdinessandaestheticlines. Theshipwasdesignedfromtheoutsetoperformtherolesofbothasurveyvesselandasupplyship. ThesurveyroledemandsaccommodationforalargecrewcapacitywithdedicatedROVoperatingrooms, anROVplatform, ROVworkshop, andoffshoreratedcrane.
+ThedieselelectricgeneratingplantiscentredaroundfourSiemensgeneratingsetspoweredbyMaK6M25engines. Eachgeneratoriscapableofproducing1800kWat690V. Thepowerisdeliveredvia dedicatedpropulsionswitchboardtofiveRolls-RoycethrustersdrivenbySiemenselectricmotors: twoazimuthingAquamasterContaz15thrustersaft, eachrated2200kW; oneAquamasterUL1201retractablebowthrusterof883kWandtwo767kWKamewaTT1650-FP-KII tunnelthrusters. OnthemaindeckthereisaCaterpillar3306TA170kWemergency/harbourgeneratingset. Thislargemarginofpropulsionpowerhasbeenemployedtogivetheshipgoodstation-keepingcapabilitiesunderDPcontrolinbadweather.
+Themainpropulsionunitsarewater-cooledandfeaturetwincounter-rotatingpropellers, aftoftheazimuthingpod. These, withthethreelectricallydrivenbowthrusters, arecentrallycontrolledbyaNautronixASK5002DP2system. Allpropulsionunitscanalsobeoperatedbymeansofindividualcontrolsfromtheforeandaftstationsinthewheelhouse, andfromaportablejoysticksystem, throughtheDPsystem. TheDPequipmentincludesfourpositionreferencesystems, DGPS, Fanbeamlaserandhydroacoustic, allsuppliedbyNautronix, andaKongsbergSimradHipap500.
+Belowdecksthevesselisdividedintothebowthrustercompartment, whereallthreeforwardthrustersaresited, thengineroom, thecargotanksaftofamidships, withtwotunnelseparatingthecentretanksforfuelfromthesidetanksoutboard, andthecargopumproomaft.
+Thesetunnelsalsoserveforoutingofpipingandtheheavygaugewiringrequiredforthepropulsionmotors.
+Aft, inthepropulsioncompartment, allmainpropulsionequipmentisfittedcomprisingtransformers, water-cooledfrequencyconvertersandelectricmotorsfortheContaz15propulsionunits. Themachineryroomsareairconditionedforoperationintropicalregions.
+Theautomationsystemcontrollingalarms, powermanagementandloadsharingofgenerators, remotetanklevelreading, draughtmeasurement, cargopumpoperation, remotevalvecontrolandstabilityprogrammewasuppliedbySteinco, inclosecooperationwithSiemens.
+Accommodationisprovidedfor49crewmembers, insingleandtwomancabins, allwithindividualsanitaryfacilities, distributedoverfourdecksabovethemaindeck. Asaunandafitnessroomisprovided, alongwithatwo-bedhospitalcabin. Twoclientofficesareprovidedontheforecastledeck. Accommodationforcaptainandchiefengineer, aswellaseightotherofficerandguestcabins, andaship'sofficeislocatedononelevel. TheupperdeckhastwoROVcontrolrooms, theon-lineroombeingsitedonthestarboardsidetoprovidegoodvisibilityovertheROVplatformdeck.
+Thewheelhouseisdesignedforspaceandgoodall- roundvisibility. Afthereisawalkaroundconsolewithalltheship'scontrols, aswellasaradarepeater, internalcommunicationsandVHFradioequipment. TheDPdualconsoleisitedaftoverlookingtheaftdeck. Inthecentreofthewheelhouse, adjacentothexhaustcasingthereisasunkensatellitecommunicationscentre, whichalsoservesasthewheelhouseoffice. Toporthereisasmallmeetingarea. Theforwardconsole, forconningthevesselwhileintransit, incorporatesallshipcontrols, tworadars, thenavigationequipmentandmainGMDSSA3radiocommunicationconsole.
+TECHNICALPARTICULARS
+Length, oa..................................................................75.00m
+Length, bp .................................................................64.80m
+Breadthmoulded.......................................................16.00m
+Depth, moulded...........................................................7.00m
+Grosstonnage............................................................2786gt
+Design, draught...........................................................5.65m
+Design, deadweight............................................2250tonnes
+Speed, service .........................................................14knots
+Maxspeed ................................................................15knots
+ClassificationSocietyandNotations.....LR, +100A1, +LMC, UMS, DP(AA), PCR
+Otherimportantinternationalregulationscompliedwith.....MCAMainengines
+Make ..........................................................................MaK
+Model .......................................................................6M25
+Number....................4 (drivingeneratingsetsfordieselelectricpropulsion)
+Outputofeachengine.........................................1800kWPropellers
+Openornozzled ......................................................OpenAlternators
+Number ...........................................................................4
+Make/type............................................................Siemens
+Output/speedofeachset .................1720kW/720rev/minTransversethrusters
+Make ..............................................................Rolls-Royce
+Number ....................2xtunnel; 1retractableazimuthing
+Outputofeach ..............................2x767kW; 1x883kWSternazimuthingthrusters
+Make ...........................................AquamasterContaz15, counter-rotatingpropellers
+Number ...........................................................................2
+Outputofeach .....................................................2200kW
+Deckmachinery.........windlass, 2xcapstanand2xtuggerwinches, electricdriveBridgelectronics
+Radarsmake/model .............FurunoFAR2835S, FurunoFR-2115
+Autopilotmake/model...................includedinDPsystem
+GMDSSmake/model............................FurunoRC-1500C
+GPSmake/model..........................IncludedinDPsystem
+Gyro ..............................................IncludedinDPsystem
+Chartplotter..........................................................Maxsea
+Enginemonitoring/firedetectionsystem....Steinco/AutronicaComplement
+Crew..............................................................................49
+Othersignificantorspecialitemsofequipment ..........cranebyTTS-Norlift, with20tonnecapacityat20moutreach; wirelength200m
+GRAMPIANSURVEYOR: DieselelectricpowerforROV
+Builder ......................................................Safehaven Marine
+Designer........................................................Frank Kowalski
+Vessel'sname ..................................................High Velocity
+Owner/Operator....................................................A O' 'Rahily
+Country.......................................................................Ireland
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder ....................Three
+Deliverydate.....................................................14 July 2003 SafehavenMarinehasthisyearlauncheditsnewcatamarandesign, theWildcat. Thisisa10.75moffshorepowercatdesignedforamultitudeofworkboatapplications. Thefirstvessel, HighVelocity, isaseanglingcharterversionwhichcapitalisesonthecat'swidebeamwithan 'islandwheelhousedesign', allowingaccesstothefullengthoftheboatforangling, yetstillmaintainsalargecabinforaccommodationandshelter.
+OneofthemaindesignbriefsfortheWildcatwastomakethevesselasattractiveandsleekaspossible. Thevesselhasbeendesignedtocombinesafedependableseakeepingandstabilitywithperformanceandeconomy. TheWildcathulldesignutilisesymmetricalplanninghulls.
+Thehullsaremulti-chineinform. Themainchinedeflectswateroutandawayformthehullshavingatwo-foldeffect. Ontheoutboardchinethisimprovesridedrynessandreduceswettedarea. Ontheinboardchinethesprayisturnedsothatinwavesitprovidesacushioneffect. Thesprayismixedwithaircomingdownthetunnelandcreatesahigh-densitymedium, whichwhencompressedampensmotionsthroughwaves. Slammingonthebridgedeckiseliminatedasaresultofthehullridingonthishigh-densityspraycushion. Asecondchinesituated200mmhigherthanthemainchinefurtheraidsinboatdryness, especiallyatlowerspeedswhenthemainchineismainlyimmersed.
+Full-lengthkeelsareincorporated, andprovideprotectiontothepropellers, aswellasincreasingthehullsgriponthewaterforslowdriftspeeds.
+Thevesselsbeamhasbeenconstrainedtoawide4.59m, providingagoodcompromisebetweenworkarea, stability, andminimalslammingthatendsoccursoncatamaransthathaveaverywidebridgedeck. Alsomarinaspaceandberthingfacilitiesareconsidered, wherexcessivebeamcanbehardtofacilitate.
+Duetotheslendernatureofcatamaranhulls, inchoppyconditionsverticalaccelerationsaremuchreducedincomparisonwithmonohulls, givingagentlerideandmotion. However, thebiggestdisadvantageoftheoldertypeofcatamaranhull - whichfeaturedveryfinesectionsforwardwithlittlereservebuoyancy - gaveaverysmoothrideinshortseastates, butsufferingbadlyinoceanswellconditionsduetoslammingonthebridgedeck. Thishortcominghasbeensolvedwithmuchfullerforwardsections, offeringreaterbuoyancyandgivingthehullthenecessaryliftopreventslammingonthebridgedeckallowinghigherspeedstobemaintainedintolargeroceanswells.
+Atsea, thiscatamaranhasadistinctadvantage, thetwinhullsforma 'grove' inthewaterallowingthehulltotrackasifonrailswhilsthetremendoustransversestabilitymeansthehullsufferslittleyawandsurge, especiallyinquarteringseasallowingvirtually 'handsoffsteering'. Assessingthevesselshandlingduringtrials, shewasrunonallangleswiththewaves, andvirtuallynorolloryawasencounteredandnohelmcorrectionwasneeded. Headingintosea, sheagaingaveaverysmoothridewithzeroslammingonthebridgedeck.
+Whenslowedowntodisplacementspeedsinthelargeandsteepbreakersinthetidalraceshebehavedverywellwithnopitching, withthehullsprovidingplentyofbuoyancy. Onfurthertrialsinlessevereconditions (inforce5conditionswith2.13mseas), shewasabletomaintainaservicespeedof17knotsat200rev/minandwasabletopunchintothewavescomfortably.
+Thechinesdoaverygoodjobofsuppressingspray, andthespraypatterniscleanandlow, indeedinmoderateconditionsverylittlespraycomesaboard.
+Alsofinterestisherlowashcharacteristics, whichresultinawasheightapproximately50% lessthanacomparablemonohull.
+Atalightshipdisplacementof8550kg, andpoweredbytwin300hpCaterpillar3126engines, sheachieved27knotswithacomfortablecruiseof22knotsat2400rev/min. Throttlingbackevenfurthertoaveryeconomical200rev/min, stillprovidedl7knots. Incomparisonwithasimilarlypoweredfullkeelmonohull, atasimilardisplacement, thecatamaranshowsadistinctperformanceadvantage.
+Workingareaisoneofthecatamaransmainadvantages. HighVelocityhasalargeflushaftcockpit.
+Thewalkwayupeachsideofthecabiniswidenoughfortwopersonstopasseachother, andatheforedeck, mooringandanchoringiseasilyandsafelycarriedout.
+Theanchorlockerisverylargeandincorporatedintothesuperstructure, formingacomfortableseat.
+Accommodationonthisvesselisveryluxurious, beinglinedandcarpeted, andconstructedinacombinationofteakandGRPmouldings. Thehelmconsoleiscentralinthecabinandoffersexcellentvisibility. Eithersideistandingroomwithdoorsleadingdowntotheforecabinsineachull, whichfeatureareasonablysizedVberth. Thereisalargegalleytoo, withsink, strainer, andgashop. Oppositetoportisaverycomfortablecurvedsetteewithafoldingtable. Theheadscompartmentisaccessedfromtheaftcockpitandusefully, canbehosedown. Thetwoenginesaresituatedbelowlargeflushatcheswhichfeatureverywideandeep127mmx152mmdrainagechannelsandseveraloutlets, whichshouldensurenowaterfindsitswaybelowdecks.
+TECHNICALPARTICULARS
+Length, oa....................................................................10.7m
+Beam ...........................................................................4.59m
+Displacement.............................................................9500kg
+Design, draught................................................................1m
+Lightweight ................................................................8550kg
+Speed, service..........................................................22knots
+Maxspeed ................................................................27knots
+Range .........................................................................350nmMainengines
+Make.................................................................Caterpillar
+Model ........................................................................3126
+Number ...........................................................................2
+Outputofeachengine............................................300hpGearbox
+Make ..................................................................TwinDisc
+Model......................................................................5061APropeller
+Manufacturer .................................ClementsEngineering
+Diameter................................................................559mmBridgelectronics
+Radarmake/model ..........................................Raymarine
+Autopilotmake/model............................................Simrad
+Othercommunicationsystems...................................VHF
+Chartplotter.....................................................RaymarineComplement
+Crew................................................................................2
+Passengers ...................................................................12
+Numberofcabins ...........................................................2
+HIGHVELOCITY: Multitudeofapplicationsfornewcatdesign36SIGNIFICANTSMALLSHIPSOF2003
+Builder'sname ..........................Appledore Shipbuilders Ltd
+Designer ...........Kavaerner Massa Marine, , VT Shipbuilding, , Appledore Shipbuilders Ltd
+Vessel'sname ..............................................HMS Enterprise
+Owner/Operator ............................................UK Royal Navy
+Country .............................................................................UK
+Flag ......................................White Ensign ( (Nominally MCA) )
+Totalnumberofsistershipsalreadycompleted ............One
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate.................................13 July 2000 ( (both ships) )
+Deliverydate ...............HMS Enterprise 12 September 2003 ( (HMS Echo 31 October 2002) ) NewsurveyvesselsenteredservicefortheRoyalNavyduring2003HMSEnterprise (andsisterHMSEcho, deliveredathendof2002) wereconstructedatAppledoreShipbuilderstoapreliminarydesignprovidedbyVTShipbuildingLtd.
+ThesenewshipsreplacetheH-Classhipsandhaveamuch-increasedcapability. Theyhaveadisplacementof3500tonnes, are90minlengthandhaveamaximumspeedof15knots. TheyaredesignedandconstructedtoLloyd'sRegisterules, includingIceClass1CandEP, plusMCAoverlaidbyNavalStandards. EchoisthefirstRNvesselwithbothfullelectricACpropulsionsystemandpoddedrives.
+Theprimaryrolesoftheshipsarehydrographicandoceanographicsurvey. Theyaredesignedtocapturedatafromtheseabedandthewatercolumnandprocessthedataonboard, whichisthenstoredfordownloadingtothehydrographicoffice. Theycangatherhydrographicsonardatainshallowtomediumdepths, andoceanographicdatandbottomsamplingdatadownto600m.
+Secondaryrolesoftheshipsincluderapidenvironmentalassessment, supportofamphibiousoperations, andsupportominecountermeasureoperations.
+Surveysensorscompriseacombinationofhullmountedandtowedoroversidesensors. KongsbergSimradmultibeamechosounderprovidesacapabilityenablinghydrographicdatatobegatheredatarateupto120timesthatofasinglebeamsounder. TwoKSEA500echosoundersarealsofitted, andallthetransducersarefittedinagondolamountedbelowthekeel. Thisfeature, whichreducesentrainedairaffectingtransducerperformance, andthesizeoftheshipsenablesgatheringdatainconditionsuptoseastate6.
+Towedsensorsmeasureconductivity, temperature, scatteranceandsuspendedmicroscopicmaterialinthewatercolumndownto500m. Magnetometers, SubottomprofilersandtheGeo-AcousticsSonar2094side- scansonararealsocarriedandeployedfromtheA- frameonthestern. Behindshelldoorsinthestarboardsideoftheshipliesthe 'BalticRoom'. FromheretheCTDoceanographicsamplingearandtheShipekgrabseabedsamplercanbedeployedfromahydraulicallyoperatedboomdowntodepthsof600m. Thesurveydataisprocessedandstoredvia KongsbergSimradIntegratedSurveySystem, andsurveyoperationsaresupportedbyacomprehensiveNavigationbyKelvinHughes, plusaShipPositioningcontrolsystemprovidingjoystickcontrol.
+Theship'spropulsionandelectricalpowersystemcomprisesthree1.6MWRustonandone550kWCumminspowered690Vdieselgenerator, providingelectricalpowertothetwoABB1.7MWCompactAzipods, BrunvollbowthrusterandShipservices (viatransformers). TheVTC (nowRolls-Royce) EPCAMSsystemprovidesautomaticelectricalpowercontrolandmanagement. TheshipshavedamagecontrolarrangementstofullRoyalNavalstandardsaswellasagas-tightcitadeltoprotectagainstnuclear, biologicalandchemicalagents.
+TECHNICALPARTICULARS
+Length, oa..................................................................90.60m
+Length, bp .................................................................86.00m
+Breadthmoulded.......................................................16.80m
+Depth, moulded.......................9.10mtomaindeck; 11.85mtoupperdeck
+Grosstonnage............................................................3778gt
+Displacement..................(at5.50mdraught) 3775.93tonnes
+Design, draught...........................................................5.25m
+Design, deadweight .........(at5.50mdraught) 1260.7tonnes
+Lightweight ......................................................2506.5tonnes
+Speed, service .........................12knotsat50% MCRoutput
+Maxspeed ................................................................15knots
+Range .......................................................................9300nm
+Dailyfuelconsumption .............8.47tonnes/day (at12knots)
+ClassificationSocietyandNotations.......Lloyd'sRegisterofShipping; @100A1SurveyVessel, IceClass1C, @LMC, UMS, ES(2), (Sheerstrake, ExposedNo1deck, flatofbottom), IWS, ShipwrightPCWBT, PMS(CM), HCM, SCM, CCS, ICC, EP, PSMR* Otherimportantinternationalregulationscompliedwith... MCAexceptwherethiswasoverwrittenbyspecificRNcustomerequirements. RNavalEngineeringStandardsforMagazineandNBCDCitadelMainengines
+Make ................................................................MANB&W
+Model .......................................................Ruston6RK270
+Number ...........................................................................3
+Outputofeachengine.........................................1660kWPropellers
+Type............twinCompactAzipods (poddedriveunits)
+Manufacturer..............................................................ABB
+Number ...........................................................................2
+Pitch..........................................................................Fixed
+Diameter..................................................................2.85m
+Speed..............................................................270rev/min
+Specialadaptations............................................IceClass
+Openornozzled.......................................................OpenAlternators
+Number ................................3main; 1harbouralternatorMake/type
+Main ..............................................ABBAMG560L8L
+Harbour............................................ABBAMG400S4Output/speed
+Main.................................................1882kVA, 1600kW
+Harbour ...............................................688kVA, 550kWBowthruster
+Make.....................................................................Brunvoll
+Number.......................................................................One
+Pitch .....................................................................Variable
+Outputofeach .......................................................500kW
+Deckmachinery ....aftdeckAframe; aftdeckcrane; 2xaftdeckcapstan; undulatingoceanographicrecorderwinch; 2xsidescansonarwinch; rescueboatdavit; surveymotorboatdavit; Balticroomwinchandextendableboomoutofshellsidedoorway; 2xanchorwindlass; 2xforedeckcapstan (incorporatedintowindlass); foredeckstoresdavit; foredeckgeneralpurposedavitBridgelectronics
+Radarsmake/model ............KelvinHughesNUCLEUSII
+Autopilotmake....................................KongsbergSimrad
+GMDSSmake...........................................................Sailor
+Othercommunicationsystems.................Thales (MilitaryCommunicationsSystem)
+GPSmake/model .....VPLGR (RockwellCollins 'P' Code);
+ApplanixPOS/MV
+Gyro.......................................................................C-Plath
+Chartplotter...................................KelvinHughesECDIS
+Enginemonitoring/firedetectionsystem ...............VosperThornycroftControlsIntegratedPlatformManagementSystemandEnginePowerControlandManagementSystemComplement
+Crew...............................................................67 (max83)
+Numberofcabins .........................................................39
+HMSENTERPRISE: FirstRNvesselwithpoddedrives38SIGNIFICANTSMALLSHIPSOF2003
+Builder............................................................Kegoya Dock Co
+Designer................................Imamura Shipbuilding Co Ltd/ / HongKong Salvage and Towage
+Vesselname...........................................Lamma and Tap Mun
+Owner/Operator................Hong Kong United Dockyards Ltd
+Country.................................................................SAR China
+Flag..........................................................................Hong Kong
+Totalnumberofsistershipsalreadycompleted................Four
+Totalnumberofsistershipstillonorder.......................Two
+Contractdate....................................................24th April 2003
+Deliverydate........................................................January 2004 LammandTapMunarethelatestHUDMarine (HongkongSalvageandTowage) newbuildings, andthefirstpureharbourtugsithasbuiltsince1995.
+TheirdesignisbasedontheLamTongclasswithminorimprovementstoincludeanenhancedwheelhouseincorporatinganinternalstaircase. Theotherimprovementsarenoisesuppressionintheaccommodation, sewagetreatmentplantandNOxcertifiedengines. TheprioritywasreliabilityofequipmentoenableHKSTtoservicethehighbusinessvolumeonHongKongHarbour.
+EachtugispoweredbytwoNiigatatype6L2SHXenginesdeveloping3200bhpintotal. Thisproducesthehighbollardpullrequiredforharbourtowage, whilestillhavingexcellentfueleconomy. Theimportanceoflength, breath, andpoweratioforeconomicalportoperationhasledHKSTtothepresentdesign.
+AllHKSTtugsincludingLammandTapMunaredesignedtovercomea 'blackout' situationintheunlikelyeventoneshouldoccur. Allcontrolsandemergencysystemsaredesignedtoperateunderbatterypowerforatleastwohours, whichprovidesmorethansufficientimetoremedyanemergencysituation.
+InHongKong, alltugsoperatethepush-pullsystemandtheforwardtowingwinchisaKitagawaKogyoelectro-hydraulicdrivenwinchwithan80tonnebrakecapacity. Thewinchisfittedwith110mx96mmSupermixropewhichHKSThavefoundtobereliableandlonglasting, averagingwellover2500tugmovesbeforebeingreplaced. ThesetugsdonothavexternalfirefightinginstalledsinceHKSThavesufficientfirefightingtugsalready.
+AllHKSTharbourtugsoperatewiththreemen, supportedbyasmallbutdedicatedmaintenanceteam.
+Theaccommodationhasatotalofsixberthsforusebydeliverycrews. Bothearliersisters, LamTongandTungLung, weredeliveredfromHongKongtoMelbourneviaCebuandThursdayIsland (a5338milesvoyagein27days) withnoproblems.
+InitiallythesetwotugswerethelastofsixnewbuildingsbutduetoHKST'scontinuedexpansionintonewoverseasmarketsanadditionalorderhasbeenplacedwithKegogaDockCofortwosistertugswhichareduefordeliveryinearly2004. TheLammaclasstugswillbeforharbourtowageinHongKong.
+TECHNICALPARTICULARS
+Length, oa ..................................................................25.4m
+Length, bp ...................................................................19.8m
+Breadth, moulded ........................................................8.5m
+Depthmoulded ............................................................4.7m
+Grosstonnage.....................................................231tonnes
+Designdraught ............................................................2.7m
+Speed, service.....................................................12.36knots
+BollardPull.........................................................45.45tonnes
+Range .......................................................................1600nm
+Dailyfuelconsumption............................8.83tonnesperday @ 100% MCR
+ClassificationSocietyandNotations............Lloyd'sRegister+ 100A1 (CoastalService)
+Otherimportantinternationalregulationscompliedwith......ITC, SOLAS, Loadline, MarpolMainEngines
+Make.....................................................................Niigata
+Model ..................................................................6L25HX
+Number..........................................................................2
+Output.................................................................1200kWGearboxes
+Make ...................NiigataPowerSystems (builtinclutch)
+Model ....................................................................ZP-11A
+Number ...........................................................................2Propellers
+Material ......................NiAluminiumBronze (gradeCU3)
+Manufacturer ...........................KamomePropellerCoLtd
+Number ...........................................................................2
+Pitch..........................................................................Fixed
+Diameter..............................................................1900mm
+Speed..............................................................331rev/minAlternators
+Number .......................................................................Two
+Make/type .....................................TaiyoElectricTWY25C
+Output/speedofeachset...............80kVAxAC385Vx3Phasex50hzx1500rev/minDeckmachinery
+Forwardwinch .........KitagawaKogyoelectro-hydraulicdrivenwinch; 2/1TX25/65m/min; aftowinghookof40SWLBridgelectronics
+Radarsmake/model................................FurunoFR-7062
+Autopilotmake/model.......................TokimecFR-2204ZZ
+Othercommunicationsystems..........VHFSailorRT4822
+GPSmake/model:.......................................FurunoGP80
+Gyro.........................................................TokimecES-110
+Enginemonitoring/firedetectionsystem....NipponHakuyoComplement
+Crew................................................................................3
+Numberofcabins:...........3x2berth; accommodationisarrangedinthedeckhouseontheupperdeckwithtoilet, shower, laundryandgalleyfacilities
+Othersignificantorspecialitemsofequipment..........UnitorCO2extinguishingsystemforengineroom, fullfendering; shiptoshipowersupply380VAC50Hz100A; 250Wmetalhalidesearchlightoperatedfromwheelhouseconsole;
+NipponHakuyofiredetectionsystemtocoverengineroom, propulsionroom, messarea, crewcabins, andwheelhouse; alarmpanelfittedinwheelhouse; Matesavermanoverboardrecoverysystemandrescuenetfitted; tin-freeantifoulingpaint; alltanksepoxycoat (exceptfuel/LOtanks); metersforvesselfuelconsumption
+LAMMAandTAPMUN: Yard’sfirstpureharbourtugsforover15years40SIGNIFICANTSMALLSHIPSOF2003
+Builder'sname.............................................South Boats Ltd
+Designer ...........................................South Catamarans Ltd/ / TT Boat Designs Ltd
+Vessel'sname.............................................................Nipper
+Owner/Operator.......................Nipper Commercial Services
+Country.....................................................................England
+Flag..............................................................................British
+Totalnumberofsistershipsalreadycompleted.............Two
+Totalnumberofsistershipstillonorder .....................Eight
+Contractdate..............................................September 2002
+Deliverydate..........................................................May 2003 Nipperisafastall-weatherhighbuoyancycatamaranwithanoverallengthof11mbutwithaworkingdeckareainexcessof45m2. NipperhasbeenbuiltoMCACategory2 (60nm) withworkboatendorsementforalocalIsleofWightskipperwhoplanstoperatethecraftformediasupportandguardboatdutiesaswellasurveyandcommercialdiving.
+Thevesselisfittedwithanislandwheelhousepermittingfullaccessaroundthesidesandthebowgivingaflushworkingdeckareaof45.6m2. Thewheelhouseisfittedcomfortablywithalargehelmpositionwithallcontrolsandelectronicsdirectedtothehelmsman'sKAB301seat. AsecondKAB301seathasbeenprovidedforacrewmember. Aftoftheporthelmisan 'L' shapedupholsteredseatingareawhiletostarboardisafullelectricgalleywithfourburnerhob, grill, oven, andmicrowaveandsinkwithpressurisedcoldwatersupply. AheadscompartmentwithITTJabscomanualflushseatoiletisfittedwithaccessfromthecockpit.
+ThevesselisfittedwithtwinCummins6BTA5.9280hpdieselenginesforasprintspeedof26knotsandaloadedcruisingspeedof20knotsat2100rev/minor18.5knotsat200rev/min. Fuelconsumptionhasaveraged28litres/hour. A4.9kVAFisherPandageneratorsethasbeenfittedtopowertheonboardcomputer, galley, andchargingsystems.
+Nipperisdesignedtosupportelevisioncrews, photographers, andjournalistsduringthemanyachtingpowerboatingeventsthatakeplaceonthesouthcoastofEngland. Inthefirstseasonofserviceover600hourshavebeenrecordedundertakingthisdutyaswellascommercialchartersforunderwatersurveycompanies, divingcontractors, andguardboatoperations.
+NipperhasacomprehensivelectronicnavigationcomplimentincludingaFuruno1942MkIIOpenArrayRadar (fullyinterfacedwithGPSandchartoverlay), FurunoFCV-582LDualFrequencyColourEchosounder, FurunoGP37DifferentialDGPSNavigator, FurunoGP31GPSNavigator, ICSNavtex6+ Navtex/GPSRepeater, RaymarineST50DepthEchsounder, IcomM503EuroWaterproofFixedDSCVHFRadioTelephone, IcomDS-100DSCTerminalUnitforClassDOperation, NavitronAutopilot, ProsserWeatherTrendIndicator, aswellasaPentiumII laptopcomputerwithSeaPro200 Professionalchartingsoftwarecoupledtoa17inchwidescreenmarinisedhelmscreen.
+TECHNICALPARTICULARS
+Length, oa.......................................................................11m
+Breadthmoulded.........................................................4.88m
+Grosstonnage ..............................................................6.1gt
+Displacement.........................................................8.5tonnes
+Design, draught...........................................................1.07m
+Speed, service .......................................20knots (70% MCR)
+Maxspeed ................................................................26knots
+Range..........................................................................500nm
+Dailyfuelconsumption ......................................28litres/hratservicespeed
+ClassificationSocietyandNotations ...........Lloyd'sRegisterSSCRules, MCACode2Mainengines
+Make ..................................................................Cummins
+Model..............................................................6.BTA.5.9M
+Number ...........................................................................2
+Outputofeachengine...........................................209kWGearboxes
+Make ..................................................................TwinDisc
+Model ................................................................MG5061A
+Number ...........................................................................2
+Outputspeed ................................................1400rev/minPropellers
+Material .....................................NickelAluminiumBronze
+Manufacturer...........................ClementsEngineeringLtd
+Number ...........................................................................2
+Pitch..........................................................................Fixed
+Diameter................................................................559mm
+Openornozzled ......................................................OpenAlternators
+Number............................................................................2
+Deckmachinery ...................Quick24Velectricapstan; 500kgmanualwinchandavitBridgelectronics
+Radarsmake/model...............................Furuno1942MkII
+Autopilotmake/model..........................................Navitron
+GMDSSmake/model ..............................IcomM503Euro
+Othercommunicationsystems......................IcomDS100
+GPSmake/model.........................................FurunoGP37
+Chartplotter.............................SeaPro200 ProfessionalComplement
+Crew................................................................................2
+Passengers....................................................................12
+Numberofcabins ...........................................................0
+NIPPER: Workboatassistsmediaevents42SIGNIFICANTSMALLSHIPSOF2003SIGNIFICANTSMALLSHIPSOF200345
+Builder.....................................Rodriquez Cantieri Navali SpA
+Vesselname............................................................Ramon Llull
+Owner/Operator ............................................................Balearia
+Designer ..............................................Rodriquez Engineering
+Country.........................................................................Spain
+Flag....................................................................................Spain
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder.......................One
+Contractdate...................................................November 2001
+Deliverydate ..............................................................May 2003 RamonLlull (yardnumber311), isan84mall- aluminiumfastferrythatwasbuiltforBaleariaEuroliniesMaritimes, atRodriquezCantieriNavali'syardinPietraLigure, Italy. RamonLullispartofRodriquez'sTMVseriesofAquastradamonohullsandwasfollowedbyhersistershipThePrincesswhichwasdeliveredinJuly2003.
+RamonLlull, namedafterthe13thcenturySpanishphilosopher, hasacapacityfor462passengersdividedinto106seatsforfirstclasspassengers, locatedontheupperdeck; and356seatsforeconomyclass, locatedonthemaindeck.
+RamonLlullisfittedwithRodriquez'spatentedhoistableuppercardeck. Thisallowstheshiptobeoptimisedforherparticularvehicularcargo. Forinstance, duringthesummermonthsthetrafficisprimarilypassengercars, andasuch, fulluseofthecardecksismade. Duringthewintermonths, theremaybeahighnumberoftrucksandthentheupperdeckscanbehoistedoutofpositiontoallowthetallertrucksonboard. Typically, thesummerseasonwillseeRamonLlulloptimisedforcars, butduringthelesstouristdominatedwinterseasontheneedtocarrytrucksisimportant.
+Alternatively, itispossibletomixandmatchthepositionoftherampsandeckstoallowanycombinationoftrucks/bussesandcarsonboard. ThecardeckhasaninnovativearrangementoftenfoundonlargerRodriquezTMV115vessels, inthathecentralrampscanberaisedtoaccommodatetallvehiclesuchasbusesortrucks. Withthedeckslowered, themaximumcarcapacityis58carsbutwiththedecksraised, thereare110lanemetresavailableforthesetallvehiclesyetstilladditionalspacefor22cars. ThisflexibilityisimportantoallowBaleariatheabilitytofferyear-roundoperationforallvehicletypes.
+PowerisprovidedbyfourManB&W18VP185dieselengineseachconnectedtoadedicatedLipsteerableandreversiblewaterjetvia ReintjesVLJ2230gearbox. Thisarrangementwillprovideaservicespeedof39knotsbasedon90% MCRandwithafulloadofpassengersandcars. Maximumspeedisapproximately40knots.
+Sheisequippedwiththelatestinadvancedridecontrolsystemsthatincludes: anti-pitchT-Foils (foreandaft); anti-rollfins (twoperside, foreandaft); transomountedintrudersforlongitudinaltrimcontrolaswellasanti-rollcontrol. Allsystemsarefullyintegratedintoacentralcommandstationandhavebeendesigned, engineered, tested, andmanufacturedbyRodriquezMarineSystems.
+Thisystemhasbeenhydronamicallydesignedandtestedtohavezeronegativeffectontheshipspeedwhichisachievedbydiallinginaverysmallamountof 'lift' intothehorizontalplanesoftheT-foils.
+Furthermore, smallruddersareincorporatedintotheverticalskegsoftheT-Foilswhichallowstheshiptomakecoursecorrectionsatmediumtohighspeedswhilstmaintainingthewaterjetsatazeroangleandthereforeatheirfullthrustposition.
+TECHNICALPARTICULARS
+Length, oa..................................................................83.35m
+Breadthmoulded.......................................................13.50m
+Depth, moulded...........................................................8.80m
+Displacement.....................................................518.7tonnes
+Design, draught...........................................................2.10m
+Design, deadweight..............................................337tonnes
+Speed, service ....................................34knotsat90% MCR
+Maxspeed ................................................................40knots
+Range .......................................................310nmat39knots
+Dailyfuelconsumption ......................................2.9tonnes/hr (69.6tonnes/day)
+ClassificationSocietyandNotations ...........RINA*100-A-1.1NAV.SHSCatB+IAQ-2TpTr (Ro-Ro)
+Otherimportantinternationalregulationscompliedwith.....HighSpeedCraftCode, CategoryBMainengines
+Make ................................................................MANB&W
+Model....................................................Paxman18VP185
+Number ...........................................................................4
+Outputofeachengine.........................................3700kWGearboxes
+Make.....................................................................Reintjes
+Model ..................................................................VLJ2230
+Number ...........................................................................4Waterjets
+Make...........................................................................Lips
+Number ...........................................................................4Bowthrusters
+Make ......................................RodriquezMarineSystems
+Number ...........................................................................2Complement
+Crew..............................................................................12
+Passengers .................................................................462Vehicles
+Numberofvehicledecks................................................2
+Totalanelength..........................................................225
+Nofcars......................................................................89
+Noftrucks/trailers.......................................................10
+RAMONLLULL: OptimisationforefficientuseSIGNIFICANTSMALLSHIPSOF200347
+Builder....................................................North West Bay Ships
+Vesselname ...............................................................Red Jet 4
+Owner/Operator....................................Red Funnel Group UK
+Designer ................................................North West Bay Ships
+Country........................................................United Kingdom
+Flag ........................................................................................UK
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder .........................Nil
+Deliverydate ..............................................................May 2003 NorthWestBayShipsthisyeardelivereda39mpassengerferry, RedJet4, totheRedFunnelGroup, UK, foroperationontheSouthamptontoCowesroute. Thevessel, designedandbuiltinAustralia, wasdeliveredbyheavyliftshiptoSouthamptoninMayandenteredintoserviceinJune.
+Featuresofthedesignincludealow-washullform, aresilientlymountedsuperstructuretominimisenoiseandvibrationtransmissionforpassengercomfort, andacabinarrangementandaccessdoorspecificallydesignedtofacilitaterapidpassengertransfer.
+ThevesselispropelledbytwoMJP650waterjets, whicharedrivenbytwoMTU12V400 1740bkWengines, andatfulloadachievesaservicespeedof35knotsat80% MCR. Thelow-washullformhasbeendevelopedfromTen, a33mcatamaranbuiltbyNorthWestBayShipsin2001, andalsoincorporatesMDIadjustableinterceptorsmountedonthetransomofeachulltoenablerunning-trimcontrolundervaryingloadingconditions.
+Theferryoperatesonahalf-hourschedulebetweenSouthamptonandCowesandallowsjustsevenminutestoturnaround275passengers. Tofacilitaterapidpassengertransferthepassengersareaccommodatedonasingledeckthathaslargeaccessdoorsamidshipsandgenerousaisles. Itispossibletoload200passengersinonly1.75minutes. Largeluggageracksandarefreshmentpreparationareareprovidedforpassengerconvenience.
+TheinteriorhasbeendetailedtocomplementRedFunnel'sothervessels, evendowntothefabricsontheBeurteauxOceanTouristhigh-backseats.
+Forpassengercomfort, thesuperstructureisisolatedfromthehullbyrubbermountstominimisenoiseandvibration. Thenoiselevelsmeasuredinthepassengercabin, atfullpower, wereacomfortable70dBand62dBinthewheelhouse.
+Thewheelhouseprovidesgoodvisibilitybothforwardandaft, andthelatestinavigational, communicationandjoystickcontroldeviceshavebeeninstalled. RedJet4isthefirstvesseltobequippedwithanMJPvectorcontrolsystem. Thisystemgivesthecommanderexceptionalcontrolwhenmanoeuvringbothathighandlowspeeds. Toassistwithberthingthewheelhouseisarrangedwiththecommander'seatoffsetoportasallboardingoccursvianonboardaccessramplocatedontheportside.
+ThreeLiferaftSystemsAustralia128-manliferaftsandasingle65-manraftarelocatedontheupperdeck. Emergencyegressfromthecabinisthroughdualdoors, portandstarboard, andthenviainflatableminislidesdowntotherafts. Additionaldoorsandemergencywindowsarelocatedatheforwardquarterpointsandsingledoorsatherearofboththepassengerandwheelhouse. Ina50% evacuationtest, 146personsweresafelyevacuatedinineminutesixandseconds.
+TECHNICALPARTICULARS
+Length, oa....................................................................39.8m
+Length, wl ....................................................................35.8m
+Breadthmoulded.........................................................10.8m
+Depth, moulded...........................................................3.00m
+Grosstonnage..............................................................342gt
+Design, draught ......................................1.3mat100% load
+Design, deadweight ...............................................29,300kg
+Speed, service.......................35knotsfulloadat80% MCR
+Maxspeed ................................................................41knots
+ClassificationSocietyandNotations....DNV +1A1HSLCR4PassengerEOMainengines
+Make..........................................................................MTU
+Model ..........................................................12V400 M70
+Number ...........................................................................2
+Outputofeachengine ....................1740kW/200rev/minGearboxes
+Make .............................................................................ZF
+Model...................................................................BW4650
+Number ...........................................................................2
+Outputspeed ..................................................990rev/minAlternators
+Number ...........................................................................2
+Make/type ........................................PerkinsSabre4TGM
+Output/speedofeachset ...................62kW/1500rev/minWaterjets
+Make ..................................................................MJP650R
+Number ...........................................................................2Bridgelectronics
+Radarsmake/model ...........LittonDeccaBridgemasterIISeries180truemotionradars
+Othercommunicationsystems..........SailorRF2048VHF;
+SailorDSC2042VHF
+GPSmake/model .................SagittaNR51DGPSystem
+Gyro..............................................CPlathGyroCompass
+Chartplotter.........................................TransasElectronic
+Enginemonitoring/firedetectionsystem.......MTUMCS-5Complement
+Crew................................................................................3
+Passengers .................................................................275
+Numberofcabins ...........................................................1Othersignificantorspecialitemsofequipment ...Low-washullform; MDIAdjustableTransomInterceptors
+REDJET4: QuickturnaroundonpassengerferrySIGNIFICANTSMALLSHIPSOF200349
+Builder'sname ................................................Image Marine
+Designer..........................................................Image Marine
+Vessel'sname .......................................Salten and Steigtind
+Owner/Operator .............................Ofotens og Vesteraalens Dampskibsselskab asa ( (OVDS) )
+Country......................................................................Norway
+Flag............................................................................Norway
+Totalnumberofsistershipsalreadycompleted.................Nil
+Totalnumberofsistershipstillonorder...........................Nil
+Contractdate..........................................................May 2002
+Deliverydate ..........................................................May 2003 Amongtheworld'sfirstvesselsproducedtotheIMO'sHSC200 Coderequirements, andesignedandbuiltespecificallyforharshNorwegianweatherconditions, ImageMarine'sfirstvesselsforthenorthernEuropeanmarketareregardedbytheAustralianshipbuilderasamongthebestithasproduced. Theyalsorepresentsomewhatofacoup, asNorwayistraditionallyasupplier, ratherthanimporterofastferries.
+BuiltforleadingferryoperatorOfotensogVesteraalensDampskibsselskabasa (OVDS) andnamedSaltenandSteigtind, thepassenger-cargocatamaransoperateoutofthefarnorthernportofBodø. Capableof33knots, andwithcapacityfor214passengersand30Europallets (12tonnes) ofrefrigeratedcargo, the41.3mvesselsprovidenotonlyapassengerservice, butalsotheonlytransportationlinkfortravelandsuppliesbetweenmanysmallislandsandthemainland.
+Onboardfacilities, forexample, includelargeluggagestorageareasandaspeciallydesignedroomthatallowspassengerstotransportheirpets. Akioskprovidesrefreshmentsthroughoutheround-tripwhichcanlastuptosixhours, andanadjacentelevisionroomwithtoysprovideschildrenwithaplayareaseparatefromthemainpassengercabin. Smokersarecateredforwithaprotectedoutdoorsmokingareaontheupperdeck.
+Theferries' refrigeratedcargofacilitiesenableOVDStoprovideavaluableservicedeliveringoodstoandfromthemainland, particularlyforNorway'significantfishingindustry. Cargoisliftedintotheholdbycranesontheupperdeck, whichfeatureremotecontrolcapabilityforeaseandswiftnessofloadingandunloading - avitalfactoronthiserviceduetothelargenumberofdifferentportscalleduponeachday.
+Designedtoperatewithfourcrew, thevessel'slayoutfacilitatestheasyflowofpassengers.
+Hydraulically-operatedboardingrampsarepositionedbothportandstarboardandcaterforthevariouswharfheightsencounteredontheroute, whilethecentralticketingofficeallowspassengerstopurchaseticketsafterboarding. Boardingpassengersmoveforwardtothemainseatingarea, vialuggagestoragecompartmentswheretheycanleavetheirbelongings.
+Slidingdoorseparatethemainpassengercabinfromthelobbyandbaggageareas, creatingaquietenvironmentinwhichpassengerscanrelaxinclimate- controlledcomfort. SeatingisarrangedinamixtureofrowandtableandchairarrangementsandthentireinteriorisfittedoutothetypicallyhighstandardsexpectedbyScandinavianpassengers.
+Passengerswithdisabilitiesarewellcateredfor, withnoticeablefeaturesbeinghearingaidinductionloopsandinteriorcolourschemesdesignedtoclearlydelineatewalkwaysforthosewithpooreyesight.
+SincethevesselsoperatenorthoftheArcticCircle, andthroughoutwinter, specificattentionwaspaidtoensuringyear-roundfunctioningofallaspectsofthevesselinbelowfreezingconditions. Thisincludesallengineeringsystemsandisencompassedinfeaturesuchasthecoveredmooringdecksaft, whichprotecthecrewfromtheweatherwhendocking, andaslopedforwardbulkheadthatisdesignedtopreventhebuild-upofsnowandiceoverthescapehatch.
+Whilebasedonanexistinghullform, thehullsandtunnelheighthavebeenslightlymodifiedforNorwegianseaconditionsandtoallowforexpectedvariationsinpassengerandcargoloads. ThecatamaransuseSeastateinterceptorstomodifyrunningtrimaswellasprovidingsignificantmotiondamping.
+PowerforthevesselsisprovidedbytwinMTU16V400 diesels, eachdrivingaKamewawaterjetvia ZFgearbox.
+Thisproducedaspeedof33knotsintrialconditions.
+TECHNICALPARTICULARS
+Length, oa....................................................................41.3m
+Length, bp ...................................................................36.1m
+Breadthmoulded.........................................................11.6m
+Depth, moulded.............................................................4.3m
+Design, draught.............................................................1.4m
+Design, deadweight................................................48tonnes
+Speed, service (85% MCRoutput)...........................33knots
+Maxspeed ................................................................36knots
+Range .........................................................................100nm
+Fuelconsumption.................0.96tonnes/hourat100% MCR
+ClassificationSocietyandNotations.......DetNorskeVeritas +1A1HSLCR2 (nor) PassengerEO
+Otherimportantinternationalregulationscompliedwith.....IMOHSCode200 Mainengines
+Make..........................................................................MTU
+Model.........................................................16V400 M70
+Number ...........................................................................2
+Outputofeachengine ................2320kWat200rev/minGearboxes
+Make .............................................................................ZF
+Model ........................................................................7550
+Number ...........................................................................2Alternators
+Number ...........................................................................2
+Make/type...........................................................Stamford
+Speedofeachset.........................................1500rev/minWaterjets
+Make .........................................................Kamewa71SII
+Number ...........................................................................2Bridgelectronics
+Radars..................................................................2xLMS
+Autopilot.................................................................Simrad
+GPS........................................................................Simrad
+Gyro........................................................................Sperry
+Chartplotter...........................................................Simrad
+Enginemonitoring/firedetectionsystem ...........AutronicaComplement
+Crew................................................................................4
+Passengers .................................................................214
+Othersignificantorspecialitemsofequipment .......Seastatemotioncontrolsystem (Interceptors); refrigeratedcargohold - 30x400kgEuropallets; 2xcargocranes
+SALTENandSTEIGTIND: NorwayimportsAustralianferriesSIGNIFICANTSMALLSHIPSOF200351
+Builder.............................................................Strategic Marine
+Vesselname............................................................Sarah Pearl
+Owner/Operator................................................................EMAS
+Designer.......................................................Southerly Designs
+Country..................................................................Singapore
+Flag............................................................................Singapore
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate.......................................................January 2002
+Deliverydate....................................................November 2002 FollowingthesuccessofSarahJade (November2001) EMASrequiredanothercrewboatogivethiscompanyapremiumlevelofoperationalcontinuityandsecurityforitsoilfieldsupportcontracts, soitagainapproachedStrategicMarinePtyLtd, WesternAustralia, toconstructsuchavessel.
+OnthisoccasionEMASrequiredalargerboatwithalargercarryingcapacityandmoreopendeckspace, butwiththesamemanoeuvrabilityandreliabilityasthefirstvessel. ThecombinationofSoutherlyDesignsandStrategicMarinedesignteamsonceagaininfusedEMASOffshore'srequirementsintothiscrewboat, SarahPearl.
+SarahPearlhasamaximumspeedof25knots, cancarry123passengers, 40tonnesofcargo, andhascrewaccommodationfor10people. OperatingoutofvariousportsinMalaysiandThailand, thevesselwillbeusedtotransportrigandproductioncrewandequipmentoandfromoilandgasplatformsandrigs.
+ThevesselalsoprovidesfirefightingcapabilitieswiththeinstallationofaFi-Fisystemwithapumpcapableofpumping1200litres/hourthroughabridgedeck-mountedremotecontrolfiremonitorandafulldelugesystemfortheshipsprotection.
+Thevesselisalsofittedwithoilpipelinerecovery/handlingequipment.
+Thesafetyofthepassengersandcrewiscateredforbyafullymonitoredfiredetectionsystemcomprisingheatandsmokedetectorsinthemachineryspaces, andsmokedetectorsinallaccommodationandstorespacescombinedwithaudibleandvisualalarmsthroughouthevessel. Theprovisionofinflatablelife-rafts, lifejacketsandlifebuoys, andaGMDSS - area3communicationsystemwithEPIRBandSARTlocationtranspondersaddstothewellbeingoftheship'scomplementintheventofanyemergency.
+Thentirevesselisconstructedoutoflowmaintenancealuminiumandallseawaterpipingisofstainlessteel. Thecargodeckiscoveredwithaprotectivelayerofthickmarinepineplankswhichprotecthestructurefromshockloadsduringcargohandlingandminimisesthepossibilityofcargosliding.
+ThevesselispoweredbythreeMTU16200 M60ratedat1080hp, withthreeFPpropellersthrough
+ZF2550R/R - 2.03:1gearboxes. Thevesselisenvironmentallyresponsible, withtheinclusionofanoilywaterseparatorandaHanmannWassertechnikMINILsewagetreatmentplant, alongwiththeallocationoftankspacetostoretheby-productsofbothsystemsuntiltheycanbedisposedofsafelyashore.
+TECHNICALPARTICULARS
+Length, oa..................................................................40.00m
+Length, bp ...................................................................38.5m
+Breadthmoulded...........................................................7.5m
+Depth, moulded.............................................................3.1m
+Grosstonnage .............................................................219gt
+Displacement........................................................130tonnes
+Design, draught...........................................................2.75m
+Design, deadweight................................................40tonnes
+Lightweight .............................................................90tonnes
+Speed, service..........................................................23knots
+Maxspeed ................................................................25knots
+Range .......................................................................300nm
+Dailyfuelconsumption ...........................................12tonnes
+ClassificationSocietyandNotations.........GL +100A5OC3HSC - CargoOtherimportantinternationalregulationscompliedwith..(+)MCHSC-CargoMainengines
+Make..........................................................................MTU
+Model.............................................................16200 M60
+Number............................................................................3
+Outputofeachengine...........................................680kWGearboxes
+Make..............................................................................ZF
+Number............................................................................3Propellers
+Material .............................................................AliBronze
+Manufacturer........................................Stone - Singapore
+Number............................................................................3
+Pitch..............................................................................................Fixed
+Diameter..............................................................100mm
+Openornozzled ......................................................OpenAlternators
+Type......................................................................StanfordBowthrusters
+Output.......................................................................75kW
+Deckmachinery ..............................................TuggerWinchBridgelectronics
+Autopilotmake/model.........................................Navigold
+GMDSSmake/model................................................Sailor
+Enginemonitoring/firedetectionsystem .................PlotterComplement
+Crew................................................................................8
+Passengers....................................................................75
+Numberofcabins ...........................................................5
+Othersignificantorspecialitemsofequipment......Fi-FiWatercannon
+SARAHPEARL: OffshorevesselensuresafetySIGNIFICANTSMALLSHIPSOF200353
+Builder'sname...................................................Austal Ships
+Designer.......................Austal Ships/ /AMD Multihull Designs
+Vessel'sname............................... Spirit of Kangaroo Island
+Owner/Operator ............................Kangaroo Island SeaLink
+Country ....................................................................Australia
+Flag........................................................................Australian
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate .....................................................March 2003
+Deliverydate ...............................................December 2003 Withanoperatingspeedof15knots, SpiritofKangarooIslandisnotonlythefirstmedium- speedvehicle-passengerferrybuiltbyAustalShipsbutalsothefirstferrythisAustralianshipbuilderhasoldtoitslocalmarket. ThiscatamaranhasbeenacquiredtomeetanincreaseindemandinpassengertrafficandimproveferryservicestoAustralia'sthirdlargestisland.
+Orderedbywell-establishedoperatorKangarooIslandSeaLinkinMarch2003, thealuminiumcatamaranwasdeliveredinearlyDecember - aremarkablyshortbuildtimeforacustomdesignedvesselmeasuringjustover50minlengthoverall.
+Withthecapacityfor244passengersand55carsor16carsandeightrucks, SpiritofKangarooIslandhasadesigndeadweightof350tonnesandispoweredtoitseconomicalspeedbyapairofCaterpillar3512Bdieselsdriving5-bladed, FPpropellersviaReintjesgearboxes. Vehiclesloadandunloadoverawidesternrampontoanobstructionfreeopenvehicledeckthathasnofreeheightrestrictions.
+Operatingupto10tripsperday, SeaLinkprovidestheprimaryseatransportationferryservicebetweenthemainlandandKangarooIsland, whichisituatedabout9nmoffshorefromCapeJervis, onthetipoftheFleurieuPeninsulainthestateofSouthAustralia.
+ThenewAustalcatamaranwillcrossthechallengingwatersoftheBackstairsPassagebetweenCapeJervisandPenneshawinapproximately45minutes.
+Thefocusintheinteriorhasbeentoproducealevelofitouthatisbotheconomicalandpracticalwhilealsoprovidingpassengerswithacomfortableandenjoyabletravellingexperience. Passengerfacilitiesontheair-conditionedferryincludealicensedcafé, televisionandvideomonitorsandamixtureoftableandchairseating, andcomfortableaircraftstyleseating. Everyefforthasbeenmadetoensuredisabledpassengersaremadecomfortableincludingtheprovisionofspeciallyallocatedwheelchairareasandisabledtoilets.
+TECHNICALPARTICULARS
+Length, oa..................................................................50.37m
+Length, bp ...................................................................49.5m
+Breadthmoulded.........................................................17.8m
+Depth, moulded...........................................5.0matransom
+Grosstonnage..............................................................771gt
+Design, draught.............................................................2.5m
+Design, deadweight..............................................350tonnes
+Speed, service..........................................................15knots
+Maxspeed ................................................................15knots
+ClassificationSocietyandNotations.......DetNorskeVeritasMainengines
+Make.................................................................Caterpillar
+Model......................................................................3512B
+Number ...........................................................................2
+Outputofeachengine.........................................118kWGearboxes
+Make.....................................................................Reintjes
+Model..................................................................WAF643
+Number ...........................................................................2
+Outputspeed ..................................................481rev/minPropellers
+Material ................................................Aluminium-Bronze
+Manufacturer............................................................Veem
+Number ...........................................................................2
+Pitch..........................................................................Fixed
+Diameter..............................................................1600mm
+Specialadaptations..............................................5blade
+Openornozzled ......................................................OpenGensets
+Number ...........................................................................2
+Make/type .............................................Caterpillar3406C
+Speedofeachset.........................................1500rev/minDeckmachinery
+Windlass...........................1xHypac, HHAW60-30, 40kN
+Capstans ...............................4xHypac, VHMC60, 50kN
+Rampwinch .....................1xHypac, HHAW45-16, 70kN
+Davit ..........................1xHypac, RBD15-35S, SNL10kNBridgelectronics
+Radarsmake/model..............................Furuno/1942SK2
+Autopilotmake/model............................Robertson/AP-50
+GMDSSmake/model ...........................Skanti/GMDSSAZI
+GPSmake ..............................................................Furuno
+Chartplotter ...........................................FurunoGD-3300Enginemonitoring/firedetectionsystem...Marinelink/SalwicoComplement
+Crew................................................................................6
+Passengers .................................................................244
+Numberofcabins.......................................6crewcabinsVehicles
+Numberofvehicledecks................................................1
+Nofcars.......................55carsor16carsand8trucks
+Noftrucks/trailers ..............................................8trucks
+Othersignificantorspecialitemsofequipment.....DangerousGoodsCarriage, Class2 & 3 - WaterCurtain: DrencherSystem, FireMonitorsSPIRITOFKANGAROOISLAND: TwofirstsformediumspeedferrySIGNIFICANTSMALLSHIPSOF200355
+Builder..................................................Incat Tasmania Pty Ltd
+Vesselname........................................................................Swift
+Owner/Operator .........................................United States Navy
+Designer..........................................Revolution Design Pty Ltd
+Country..........................................United States of America
+Flag......................................................United States Military
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipsonorder....................................Nil
+Contractdate .......................................................October 2002
+Deliverydate....................................................15 August 2003 Takingonly10monthsfromcontractawardtodelivery, andreaching47knotsonseatrial, theUSNavyarethoughtobextremelypleasedwiththisHighSpeedVessel (HSV) HSV2Swift. ShewillserveoperationallyasaninterimMineWarfareCommandandSupportShip (MCS), andsupportransformationalminewarfaremodularmissionpayloadinitiatives. InsupportofNavyexperimentation, Swiftwillbeusedtoexploreconcepts, capabilities, andmilitaryutilityassociatedwiththeadvancedhullandpropulsiontechnologyintegratedwithadvancedcommunicationsinsupportoftheLittoralCombatShip (LCS) program.
+FortheMarineCorps, theHSVwillconductaseriesoflimited-objectivexperiments, exercises, demonstrations, andtrainingeventsthatdevelopinteroperabilitypotentialofhigh-speedvesselswithcauseways, watercraft, amphibiouships, andothershipping. ExperimentationdatawillbeusedtoaccessthemilitaryutilityofHSVsandfuturejointandnavalmilitaryoperationsorapplications.
+TheHSViscapableofmaintaininganaveragespeedof35knotsorgreater, loadedwith500shortons, consistingof350personnelandmilitaryequipment. Aminimumoperatingrangeof1100nmat35knotswasrequiredbythecontract, asisaminimumtransitrangeof400nmatanaveragespeedof20knots. Furthermore, shemustbecapableof24houroperationsatslowspeeds (3knots- 10knots) forexperimentationwithunmannedautonomousvehicles, andtosupportdedicatedandemergingorganicminewarfaremissions.
+Asternrampcapableofon/offloadingdirectlyasternortothestarboardquarterhasbeenfitted. Therampiscapableofloading/unloadingamultitudeofmilitaryvehiclesuptoandincludingM1A1mainbattletanksofupto63,957kg.
+Swiftisalsofittedwithaloadcompensatingcranecapableoflaunchandrecoveryofsmallboatsandunmannedvehiclesupto11,793kgwhilstunderway.
+Thecraneiscapableofliftingupto9979kgtoandfromtheflightdeck.
+PerhapsoneofthemostimpressivefeaturesofSwiftistheNAVAIRcertifiedhelicopterflightdeckforoperationofMH-60S, CH-46, UH-1, andAH-1helicopters. AnareaprotectedfromtheweatherforstorageandmaintenanceoftwoMH-60Shelicoptershasalsobeenprovidedtoenhanceaviationoperationsinday, night, andinstrumentmeteorologicalconditions.
+ThevesselwilloperatewithcrewstationedatNavalStationIngleside, Texas, andNavalAmphibiousBaseLittleCreek, Virginia.
+TECHNICALPARTICULARS
+Length, oa ................................................................97.22m
+Length, wl ..................................................................92.00m
+Breadth ......................................................................26.60m
+Depth, moulded...........................................................7.13m
+Displacement..........................................1800gtfullyloaded
+Design, draught ..............................................3.43mloaded
+Design, deadweightapprox .................................680tonnes
+Lightweight .........................................................1120tonnes
+Speed, service..........................................................38knotsat700tonnesdwt, 100%MCR
+Maxspeed....................................................approx45knots
+Rangeminimum.......................................1100nmat35knots
+Dailyfuelconsumption....................approx130.8tonnes/dayat100% MCR
+ClassificationSocietyandNotations....DNV +1A1R1HSLCargoEOHELDKMainengines
+Make.................................................................Caterpillar
+Model ........................................................................3618
+Number ...........................................................................4
+Outputofeachengine.........................................7200kWGearboxes
+Make .............................................................................ZF
+Model..............................................................5300 NRH
+Number ...........................................................................4Alternators
+Number ...........................................................................4
+Make.................................................................Caterpillar
+Output/speed .................. eachset320kW, 60HznominalWaterjets
+Make/type......................................................LipsLUI20E
+Number ...........................................................................4Bridgelectronics
+Radarsmake .............................................KelvinHughes
+Autopilotmake ...........................................................Lips
+GMDSS.............................Tocomplywithsearea1 & 2
+GPSmake/model ....................2xdifferential, LeicaGPS
+Gyro....................................................................Anschütz
+Chartplotter ...............................TransisNavi-Sailor2400
+Enginemonitoring/firedetectionsystem ......addressablesystemfittedComplement
+Crew .................................353personnelandequipment
+Numberofcabins .........................................................17Vehicles
+Numberofvehicledecks ...............1plusforwardramps
+Totalanelength.........................................approx2050m
+Othersignificantorspecialitemsofequipment ..........shoreramps; ridecontrol; smallboatcrane; workboat; helicopterdeck
+SWIFT: Sophisticatedhigh-speedvesselforUSNavySIGNIFICANTSMALLSHIPSOF200357
+Builder ....................................................IHC Delta Shipyard
+Vessel’sname ..............................................................Thetis
+Owner/Operator ..............................Iskes Towing & & Salvage
+Flag .............................................................The Netherlands
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder ............................- -
+Contractdate........................................................................- -
+Deliverydate ...................................................October 2003 ThisfirstDeltaAzimuthTug2800, namedThetis, isahighlymanoeuvrabletugasaresultoftheuseoftwo360degrotatablerudderpropellersinthesternofthevessel. Thetugismulti-functionalandwillbeusedasaharbourtugaswellasasea-goingtug, andwillcarryoutdutiesuchasanchor- handling, salvageoperations, andfire-fightingactivitiesintheportsofIjmuidenandAmsterdam, aswellasintheNorthSea.
+Thetisisequippedforshiphandlingoperationsinthepush-pullmode, towingoverthebowaswellasoverthestern, andescortduties. Shehasabollardpullofover60tonnes, andisextremelysilentduetoanextraordinaryheavyshipconstructionandsoundinsulation. Theall-roundviewfromthewheelhouseisexcellentduethelargewindows.
+Thehullisdividedintofivewatertightcompartments: aftpeak, rudderpropelleroom, accommodation/fuelandfreshwatertanks, andforepeak. Thehullisprovidedwithatransomsternandroundbilges. Thesternhaswellroundedtransomcorners. Aroundthevesselatmaindeckandsemi- raisedforecastledecklevel, includingthetransitionpartbetweenbothdecks, theupperhullpartisprovidedwithasheerstrakeof20mm. Thehullhasatransverseframingsystemcombinedwithlongitudinalstringers.
+Thebowiswellflaredandrounded, andhasalong - tothebow - extendedskeg, toachievegoodasternseagoingcharacteristics, andisoftheclosedboxtype. Thetisisheavilyfenderedathebow, andsternandbecauseofthis, thebulwarksaredoubleplated.
+TheinteriorsareofahighluxurylevelandwoodenfinishasbeenusedincombinationwithIskes' colours. Nearthentranceofthedeckhousethereisadressingroomforthecrew, andthecaptain'scabinincludesawashroom. Acombinedmess/galleyhasbeenplacedinthedeckhouse. Themessareaconsistsofa 'couchcorner' combinedwithalowtable. Theaccommodationintheforendconsistsofatwocrewcabins, anengineerscabin, anofficerscabin, andalaundry. Awashcabinwithshowerandtoilethasbeensituatedbetweenthengineersandofficerscabin. Thetwocrewcabinsalsoincludesawashingcabin.
+Thetughasanexcellentallroundview, especiallyathetowingwinchesandthesidefenders. Thisisbecauseoflargewindows, whichextendfromfloortoceiling.
+TECHNICALPARTICULARS
+Length, oa..................................................................28.80m
+Length, wl ..................................................................26.64m
+Breadthmoulded.......................................................10.00m
+Depth, atside ..............................................................5.20m
+Draught........................................................................4.50m
+Speed, ahead ........................................................12.5knots
+Speed, astern ....................................................... 12.0knots
+ClassificationSocietyandNotations.......GermanischerLloydGL +100A5Tug + MCAUTOtherimportantinternationalregulationscompliedwith...DutchShippingInspectionMainengines
+Make.....................................................................Wärtsilä
+Model .......................................................................9L2/0
+Number ...........................................................................2
+Rev/min..........................................................100rev/minGearbox
+Make ..................................................................TwinDisc
+Model...............................................................HD300-7
+Reduction ..................................................slippingclutchPropellers
+Manufacturer ........................................................Wärtsilä
+Diameter..............................................................2400mm
+Openornozzled......................360degsteerablenozzlesHydraulicsystem
+Make ........................................................................Deutz
+Type ............................................................BF8M1013MElectricalsystemGeneratorsets
+Make.....................................................................Deutz
+Type ........................................................BF6M1013M
+Capacity ................................................120kVA/104kW
+Voltage ...........................................................230/400V
+Frequency .............................................................50HzHarboursets
+Make.....................................................................Deutz
+Type ........................................................BF4M1012M
+Capacity ....................................................52kVA/47kW
+Voltage ...........................................................230/400V
+Frequency .............................................................50HzBridgelectronics
+Longandshortdistanceradar....FurunotypeFR-2115B;
+FR-1505MK3
+Gyrocompass ......................................TokimecES-110N
+Magneticompass..............................................Observator
+Automaticpilot .......................RadioZeelandSeapilot75
+Navtex..............................ICSNAV-5andFurunoNX-300
+Electronicmapsandnavigationsystem.................QuodfishChart-worxMAP-210
+DGPS ..............FurunoGP-80DincombinationwithGR-80
+Echosoundingsystem..............................FurunoFE-700
+Anemometer ......................ObservatorInstrumentsOMC
+MaritimePC ..................................RadioZeelandRZ-280
+Automaticdirectionfinder..............TayoMusenTD-L1620A
+SSBradio...................................................SailorSP-4610
+VHFradio..............................SailorRT-4822andRT-4800
+Radio/telephone....................................MotorolaGM-380
+Inmarsat-C/Mdualsystem .......................SailorSDMGS2
+GSM .........................................................NokiaPremicell
+GMDSSwalkie-talkie ................................NavicoSRH-50
+SART......................................................JotronTron-Scart
+EPIRB.......................................................JotronTron-40S
+Intercom/talk-backsystem ........................RadioZeelandECO-710Complement
+Passengers .....................................................................7
+Numberofcabins ...........................................................4
+THETIS: FirstofseriesluxurymultipurposetugSIGNIFICANTSMALLSHIPSOF200359
+Builder'sname ......................................Bodewes Shipyards ( (hull constructed by Shipyard Turnu Severin, , Romania) )
+Designer................................................Bodewes Shipyards
+Vessel'sname......................................................UAL Lobito
+Owner/Operator.........................HMT International Shipping & & Forwarding BV, , The Netherlands
+Totalnumberofsistershipsalreadycompleted: ...........One
+Totalnumberofsistershipstillonorder:......................Five
+Contractdate........................................................................- -
+Deliverydate....................................................20 June 2003 Theversatilityofthisnewmulti-purposecargoshipdesignisdemonstratedbythefacthathefirstwodeliveriesenteredservicexhibitingdifferentformats. Whilstheleadship (Almadiep/January2003) displaysagearless, 'low-air- draught (LAD)' configuration, thesecond, andsubjectvessel, UALobito, presentsamoreconventionalarrangement, withathreetierdeckhousebuiltuponasunkenpoopdeck, foldinghatchcoversandtwodeckcranes. Acomparisonwithother, similarsized, vesselsofthistypeshowsthatheBodewesTrader4300designhasawiderbeam/reducedraughthullformthanisusual, andaswellasimprovingstability, thisfeatureisparticularlyadvantageoustoherpresentchartercommitmentswithUniversalAfricaLines, providersofcargolinerserviceslinkingWestAfricanports, manyhavingdepthrestrictions, withEurope, NorthandSouthAmericandtheUSGulf.
+Likemanyothershipbuildersthesedays, BodewesarebenefittingfromthelowerlabourcostsprevailinginEasternEurope, bysub-contractinghullconstructiontoyardsinthisregion. ConsequentlyUALobitoriginatesfromtheShipyardTurnuSeverin, Romania, withoutfittingcompletedbyBodewesatheirownyardinTheNetherlands. Thecompactlayoutfeaturesadoubleskinhullutilisedaswaterballastanks, surroundingasinglebox-shapedcargohold, 59.20mlongx12.65m (61.50mx12.65mintheLADversion) closedbyhydraulicfoldingcovers, withahighcoamingallowingthreetiersofcontainerstobeaccommodatedinthecargospace, withamaximumtwotierscarriedonthehatchcovers.
+Allowableloadingonthetanktopis15tonnes/m2, andonhatchcovers1.5tonnes/m2. Twoportablecargodivisionsareprovided, capableoflocationatanyofivepositionsinthehold, andamechanicalventilationsystemgivesixairchangesperhour, permittingdangerouscargoestobecarried. IcestrengtheningtoClass1B (FinnishandSwedishRules) isincluded, aswellastrengtheningforloading/unloadingaground. CargohandlingisbymeansoftwoNMFdeckcranesfittedonpedestalsbuiltintotheport-sidehullstructure, eachavingaswlof36tonnesandanoutreachof22m, givingacapabilityforworkingcargoapproximately8mbeyondthestarboardsideofthevessel. AFramoanti-heelingsystemisfittedtocompensateduringcargohandlingoperations.
+ThemachineryinstallationwasubcontractedtoWolfard & WesselsWerktuigbouwandisbaseduponaMaK6M25mainenginewithanMCRof1800kWat750rev/min. ThisdrivesaCPpropellerinstalledinaLipsHRnozzle, throughagearboxfittedwitha360kWalternator, foraservicespeedof12.50knots.
+Two248kWdieselalternatorsetsarealsoprovided.
+Manoeuvringisassistedbya300kWelectricbowthruster, andtherudderisoftheStabilofree-hangingflaptype.
+Accommodationisarrangedaftfor10personsinsingle-berthcabinswithprivatetoiletfacilities, forwhomlifesavingprovisionsincludeafree-fallifeboatwithrecoverydavitathestern, amanoverboardinghysimilarlypositioned, andtwo12personinflatableliferafts.
+TECHNICALPARTICULARS
+Length, oa..................................................................89.98m
+Length, bp .................................................................84.98m
+Breadth, moulded......................................................15.20m
+Depth ...........................................................................6.60m
+Draught........................................................................5.25m
+Deadweight..............................................................4300dwt
+Gross ..........................................................................3150gt
+Speed...................................................................12.50knotsCargocapacity
+Grain......................................................................6174m3Bunkers
+Marinedieseloil......................................................210m3
+Gasoil .......................................................................50m3
+Waterballast..............................................................200m3
+Classification .............Lloyd'sRegisterofShipping +100A1, Strengthenedforheavycargoes, Containercargoesinholdsandonhatches, Strengthenedforunloadingandloadingaground, IceClass1B (FinnishandSwedishrules), +LMC, UMS, SCMainengine
+Make...........................................................................Mak
+Model .......................................................................6M25
+Number ...........................................................................1
+Output................................................1800kW/750rev/minGearbox
+Make .........................................................................Renk
+Type..................................Vertical, single-step, reductionPropeller
+Material .....................................Copper-nickel-aluminium
+Manufacturer..............................................Wärtsilä (Lips)
+Number ...........................................................................1
+Pitch...............................................................Controllable
+Diameter..............................................................2500mm
+Specialadaptations .................................LipsHRNozzleGearbox-drivenalternator
+Make.....................................................NewageStamford
+Output ....................................................................360kWDiesel-drivenalternators
+Enginemake/type.................................Cummins/N14DM
+Number ...........................................................................2
+Alternatormake/type .........NewageStamford/HCM434E
+Output ..............................................................2x248kWCargocranes
+Make..........................................................................NMF
+Number ...........................................................................2
+Type........................................................Electro-hydraulic
+Duty.............................................36tonnes/22moutreachMooringequipment
+Number............1xmooringwinch/windlass; 1xcapstan
+Type........................................................Electro-hydraulicHatchcovers
+Make ...............................................................MacGregor
+Type .......................................................Hydraulicfolding
+Specialrudder.............................................StabiloflaptypeBowthruster
+Number ...........................................................................1
+Output ....................................................................300kWBridgelectronics
+Radarsmake/model.........................................2xFuruno
+GPS..................................................................2xFuruno
+Firedetectionsystem....AjaxFireProtectionSystemsfirextinguishingsystems
+Engineroom.................................................................CO2
+Make ..................................................AjaxFireProtectionSystems
+UALOBITO: BodewesintroducesnewTraderseriesSIGNIFICANTSMALLSHIPSOF200361
+Builder'sname.............................................Kleven Verft A/ /S
+Designer .............................................................Vik- -Sandvik
+Vessel'sname .................................................Viking Energy
+Owner/Operator .................................Eidesvik Shipping A/ /S
+Country......................................................................Norway
+Totalnumberofsistershipsalreadycompleted...................Nil
+Totalnumberofsistershipstillonorder.......................One
+Contractdate........................................................................- -
+Deliverydate....................................................14 April 2003 Afterathree-yeardevelopmentprocess, thefirstplatformsupplyvesseltobefuelledwithliquefiednaturalgashasnowenteredservice. VikingEnergyistherealisationofshipownerEidesvikA/Sthatgasfuelledsupportvesselscouldprovideausefulcontributiontoreducingexhaustemissions. BoththisvesselandasistershiptobeownedandoperatedbySimonMøksterShippingA/Swillworkona10-yearcharterforStatoil.
+TheywillhelpStatoiltoreducebothcarbondioxideandnitrogenoxidemissionsacrossitsrangeofactivities, aidingNorway'scommitmentotheKyotoagreement.
+KlevenVerftinUlsteinvik, Norway, partoftheKlevenMaritimeGroup, builtVikingEnergyasitsYardNo303totheVS4403designfromVik-Sandvik. Asanimportantpartofthequestforlowemissions, thedesignincorporatesthelatesthinkinginlowresistancehullformtoreducethepropulsionpowerneededfortherequiredservicespeedandcarryingcapacity, andusesefficientazimuththrusterswithcontra-rotatingpropellersformainpropulsion.
+Thisisalargestraightsupplyvessel, 94mlongby20.4mbeam, hasadisplacementof6013tonnesathesummerdraughtof7.9m, andynamicpositioningtoIMODP2. ThevesselhasDNVCleanandCOMF-V(3) notation. Onseatrialsthenoiseandvibrationlevelsunderbothtransitandmanoeuvringconditionswereverylow.
+Fourmaingeneratorsetseachratedat2010kWsupplyelectricpowerforpropulsionandallservices. ABBwasresponsibleforthelectricalsystem. TheprimemoversforthegeneratorsetsareWärtsilä6L32DFdualfuelengines, designedtoburngasoroilinanyproportion.
+Forminimumemissions, LNGisused, butshouldtheshipmoveawayfromanareawheregascanbebunkered, thenginescanrunondieselfuel, andthe116kWCaterpillarpoweredemergencygensetalsousesdieseloil.
+LNGiscontainedinagianthermosflaskinthemiddleofthevessel, andiswellprotected. Thetankisahorizontalcylinderwithdomedends, fabricatedfrom304gradestainlessteel. Itcomprisesaninnerandanouterchamber, withagapof300mmbetweenthetwomaintainedunderahighvacuumtoinsulatetheLNGat -162°Cfromthesurroundings. Tankvolumeis234m3, givinganeffectivefuelcapacityof220m3whenfilledtotheallowablelimit. ThetankinturnisfittedinacompartmentwithA60fireinsulation.
+Safetyprecautionsarextensive. Allgaslinesandvalvesarenclosedinventilatedsheaths, withalarmsensorstogivewarningofleakage, andallareaswheregascouldcollectaremonitored.
+Beforeuse, theliquidgashastobevaporised, andsuppliedtothenginesatabout20°Cand5barpressure.
+Thisiscarriedoutbymeansofahotwatervaporiserunitattachedtothegascylinder. Twocoilsarefedwithotwaterfromtheship'system; oneratedat390kWvaporisesthefuelgastosupplyupto600m3/hofreegas, theothersmallerunitboilsenoughLNGtomaintainpressureinthetank. Abunkeringconnectionislocatedonthestarboardsideoftheship, itsenclosureinertedwithnitrogenforsafety. Bunkeringofgaswillnormallyoccupythreehoursonceaweek, ofwhichactualLNGtransfertakesaboutwohours. CryoABwasresponsiblefortheship'scompleteLNGsystemuptotheconnectionstothemainengines.
+Apartfromitsunusualfuel, VikingEnergyisanormalPSV, abletotransportalltheusualsupplies. LiquidmudiscarriedineightanksflankingtheLNGsystemamidships. Aftofthisareafurthereightpressurisabletankstotalling400m3fordrybulk. About1300m3ofuelcanbecarried, togetherwith200m3ofballast/drillwater, 1100m3ofpotablewater, and200m3ofmethanolorspecialproducts. Thecargodeckisheathedinwoodandhasanareaof1030m2. Highplatedbulwarksencloseitandrightaftateithersideofthevesselabovetherailheightaremanifoldstationsforsupplytransfer.
+TwoHydramarinedeckcranesaremountedatheaftendofthesuperstructure, whiletheNorsafeMOBboatiscradledtoportandavitsfortheVikingliferaftsareprovidedonbothsidesofthevessel.
+VikingEnergyisequippedwithdynamicpositioningtoDNVAUTRclass, usingaKongsbergSimradDPsystem. Rolls-Royceprovidedthepropulsionandmanoeuvringoutfit, comprisingtwomainContaz25azimuththrusterspoweredby300kWABBmotors, two100kWtunnelthrusters, andan880kWULE1201retractablethruster, allelectricallydriven.
+Theaccommodationispacious, finishedmainlyinlightcolourswithwoodtrim, andhas12singleberthcabinsandsixtwoberthcabins. Inthewheelhouse, thereisaconsolefacingthebowfortransitconditions, andtwoidenticalstationslookingtheotherway, withcontrolsandatascreensfromwiththeoperatorshaveagoodviewovertheworkingdeck. Maincontrolsareduplicatedathebridgewings.
+UsingLNGasafuelmeansahighercapitalcostfortheship. TheattractionisacutinNOxemissionsofapproximately200tonnesperyearcomparedwithvesselsusingoil, andamajoreductionincarbondioxide. Statoilcanusethisavingasaquotatoffsetagainstotheroperations.
+AsecondfactoristhatVikingEnergyisexpectedtouseabout700tonnesofnaturalgasayear. ThishelpstoimprovetheconomicsofbuildingLNGbunkeringfacilitiesatlocationsontheNorwegiancoastoprovidefuelforagrowingfleetofgas-fuelledvesselsinthefuture.
+TECHNICALPARTICULARS
+Length, oa..................................................................94.90m
+Length, bp .................................................................81.60m
+Breadthmoulded.......................................................20.40m
+Depth, tosecondeck................................................6.60m
+Grosstonnage ...................................................5014tonnes
+Draught........................................................................7.89m
+Deadweight.........................................................2886tonnes
+Lightship ............................................................4116tonnes
+Speed........................................................................16knots
+ClassificationSocietyandNotations .......DNV +1A1, Supply
+Vessel, SF, E0, DynposAUTR, gasfuelled, LFL*, Oilrec, Clean, COMF-V(3)
+Otherimportantinternationalregulationscompliedwith ....IMO9258442Mainengines
+Make.....................................................................Wärtsilä
+Model....................................................................6L32DF
+Number ...........................................................................4
+Outputofeachengine.........................................2010kWPropellers
+Manufacturer..................................................Rolls-Royce
+Number ...........................................................................2
+Type ..................................................................Contaz25
+Output ..................................................................300kWTunnelthruster
+Make...........................................Rolls-RoyceTT2200SS
+Number ...........................................................................2
+Outputofeach .....................................................100kWRetractablethruster
+Make................................................Rolls-RoyceULE1201
+Outputofeach .......................................................880kW
+Deckmachinery..............deckcranesHydramarine; tuggerwinchesHydrakraft; windlassHydrakraft; liferaftsVikingBridgelectronics
+Radarmake/model ............................FurunoFAR-2835-S
+DopplerLogmake/model...........................FurunoDS-80
+ECDISFuruno....................................................FEA-2105
+Echosoundermake/model....................FurunoFAR-2825
+GPSmake/model .........................................LeicaMX420
+Gyro ...................................................SG-BrownMeridian
+RadioPlant ..............................................FurunoFS-500 Complement
+Crew..............................................................................24
+Singleberthcabins.......................................................12
+Doubleberthcabins .......................................................6
+Othersignificantorspecialitemsofequipment.......LNGtankAGA-CryoABMOBoatNorsafe
+VIKINGENERGY: Gas-fuelledsupplyvesselSIGNIFICANTSMALLSHIPSOF200363
+Builder'sname...............................Hijos De J J Barreras SA
+Designer .................Hijos De J J Barreras SA/ /Oliver Design
+Vessel'sname..........................................Volcán de Tindaya
+Owner/Operator ............................Maritíma de Las Islas, , SL
+Country.........................................................................Spain
+Flag ..........................................................................Spanish
+Totalnumberofsistershipsalreadycompleted...............Nil
+Totalnumberofsistershipstillonorder.......................Two
+Contractdate........................................................................- -
+Deliverydate......................................................6 June 2003 The78mro-ro, VolcándeTindaya, wasbuiltbyBarrerasShipyard, Spain, forownerMarítimadelasIslas, fromtheArmasgroup, andwasdeliveredinJunethisyear. ShewilloperatefiveturnaroundsadayintheCanaryIslands, fromPlayaBlanca (Lanzarote) toCorralejo, (Fuerteventura).
+This700passengercapacityferryispoweredbytwomedium-speedengineswithaCPpropellerandcanreachaspeedof16knots. VolcándeTindayaisarrangedwithtwosymmetricaldoor-rampsaftandforward - protectedbyabowvisor - forcarsandtrailers.
+ThevesselisequippedwithtwoWärtsilä8L26dieselturbochargedengines, eachdevelopinganMCRof2600kWat100rev/min. Twoauxiliarydieselenginesof2x550kWat1500rev/minareconnectedtothealternatorsof2x560kW, 400V, 50Hzthroughcorrespondingcouplings. Thevesselisequippedwithtwotransversebowthrustpropellerswithanoutputof330kWeach, drivenbyanelectricmotor. Hydraulically-drivenretractablefinstabiliserswereinstalledtoreduceroll.
+Forservicebetweenquayandthevessel, therearetwosternramp-doors, eachone5.5mwideand6.5mlong. Thesedoorscancarryvehicleweightsofupto48tonnes. Therearealsotwomovablecardecksatheflanksofthetweendeck, locatedonthemaindeck.
+OliverDesign, ofSpain, createdtheinteriorandexteriorofthisvessel. Thedesignbriefwastocreateacruiseship-likevesselwithsemi-openspacesforuseallyearound. Barsandcafésweretobeasinvitingaspossible. Includedonboardisacentrally- locatedcascadebar. Thuswaiterscanservethethreeaccommodationlevelsfromthesameareausingacommunicationsysteminsidethebar. MuralswithscenesofthelocalareawerepaintedbytheartistAlexCarrascosa. Accommodationisdistributedonthreedecks.
+TECHNICALPARTICULARS
+Length, oa..................................................................78.00m
+Length, bp .................................................................65.50m
+Breadthmoulded.......................................................15.50m
+Depth, moulded ..........................................................4.80m
+Grosstonnage ...........................................................3715gt
+Design, draught...........................................................3.30m
+Design, deadweight..............................................420tonnes
+Speed, service.......................................................16.5knots
+Maxspeed .............................................................17.5knots
+Range .......................................................................2300nm
+ClassificationSocietyandNotations.................BVClass1+ HULL+MACHRo-RoPassengerShipUnrestrictedNavigationAUT-UMSMainengines
+Make.....................................................................Wärtsilä
+Model ........................................................................8L26
+Number ...........................................................................2
+Outputofeachengine.........................................2600kWGearboxes
+Make.....................................................................Reintjes
+Model ...........................................................VA-2451K41
+Number ...........................................................................2
+Outputspeed .............................................314.56rev/minPropellers
+Material ...................................................................Cunial
+Manufacturer..................................................Rolls-Royce
+Number ..........................................................................2
+Pitch..........................................................................Fixed
+Diameter..............................................................2300mm
+Speed.........................................................314.56rev/min
+Openornozzled ......................................................OpenAlternators
+Number ...........................................................................2
+Make/type ...........................Stamford-VolvoHCM634G23
+Output/speedofeachset .................560kW/1500rev/minBowthrusters
+Make...................................................................Rolls-Royce
+Number................................................................................2
+Outputofeach............................................330kW (450bhp)
+Deckmachinery......2xhighpressurewindlass7.1tonnesat12m/min; 2xdeclutchablemooringreels6.0tonnes; 2xhydraulicapstans6.0tonnesat14m/minBridgelectronics
+Radarsmake/model ........................RaytheonPathfinder/ ST<K2X&Sbands
+Autopilotmake/model................Anschütz/Autopilot2010
+GMDSSmake/model ...........Raytheonstandardradio/A2
+GPSmake/model........................................Furuno/GP-80
+Gyro ...............................Anschützstandard20Compact
+Enginemonitoring/firedetectionsystem......Noris/ConsiliumComplement
+Crew..............................................................................18
+Passengers .................................................................682Vehicles
+Numberofvehicledecks................................................2
+Totalanelength .......................................495m/2mwidth
+Nofcars....................................................................100
+Noftrucks/trailers.......................................................12
+Othersignificantorspecialitemsofequipment............2xsternramp-doors: 6.5mx5.5m; 1xbowvisor; 1xbowrampdoor: 10mx4.2m; 2xhoistablecardecksonmaindeck
+VOLCÁNDETINDAYA: PlushinteriorsinCanaryIslandferrySIGNIFICANTSMALLSHIPSOF200365
+Builder'sname ....................................................Austal USA
+Designer ............................................................Austal Ships
+Vessel'sname ............................................................Zephyr
+Owner/Operator........Circle Line- -Statue of Liberty Ferry, , Inc
+Country...........................................................................USA
+Flag.................................................................................USA
+Totalnumberofsistershipsalreadycompleted.................Nil
+Totalnumberofsistershipstillonorder .........................Nil
+Contractdate...............................................September 2002
+Deliverydate.....................................................August 2003 Withoperationalflexibilityenhancedbybothachangeableinteriorlayoutfeaturingspeciallydevelopedseatsandfour-enginepropulsionconfiguration, Zephyris, at43.5minlength, thelargestcatamaransofarbuiltatAustalUSA'shipyardinMobile, Alabama. Itisalsothefirsthigh-speedaluminiumvesselinthefleetofNewYork-basedoperatorCircleLine-StatueofLibertyFerry, Inc.
+ThenewcatamaranmeetsCircleLine'srequirementsforavesselcapableofulfillingavarietyofrolesandwasdevelopedthroughclosecooperationbetweenAustalUSAandCircleLine.
+Mostnoticeablewhenenteringthroughthelargedoubledoorsforwardistheatriumarea, withalargexpanseofskylightprovidingthetwinbenefitsofanairy, spaciousaloonandunparalleledviewsoftheManhattanskyline. EquallystrikingisthecircularAmticodancefloorsetbelowtheskylight.
+Themaindeckisextremelyspaciousandincorporatesanumberofeaturestoenableavarietyofunctionstobeheldonboard. Forexample, tofacilitateonboardpresentationsthereisalargescreenthatcanbelectricallyloweredfromtheceiling. Thisisupplementedbyfeedto53cmflatscreenmonitorsthataresuspendedfromceilingandwallocationsthroughouthevessel. Thesecanalsoreceivedirectsatellitetelevisionservice.
+Laptopcomputerconnectionsonthemainandupperdecksfurtherenhancethecatamaran'sappealtocorporateclienteleandthereareadditionalpoweroutletsontheupperdeckforcommuterstohookintoduringtheirtimeaboard.
+ThemaindeckshowcasescomfortablecurvedBeurteauxseatsofadesignverysimilartothosefittedonsomelargeAustalvehicleferriesoperatinginEurope. Small, built-indrinkstablesareanotherfeature.
+Passengerscanmaketheirwayupstairsviathecentralstaggeredstaircaseortheverylargedoublestairsaft, whichalsoleadtothesundeckbywayofasmallandingontheupperdeck. Withupto600passengersbeingcarried, greatemphasiswasplacedonloadingandunloadinglargenumbersofpeopleinaveryshortime, especiallywhenoperatinginexcursionmode. CircleLine'sexperienceinthisregardwasinstrumentalinensuringZephyrcanbeturnedaroundinminimaltimeandthatitcanoperatesuccessfullyatawidevarietyofberths, bothexistingorplanned, aroundNewYork.
+Theupperdeckalsoreflectstheowner'sdesireforversatilitywiththebarelynoticeableflushseatracksforwardaspecialfeaturethatenablesrapidconversionofthespaceintoanopenfunctionarea. BeurteauxDinerchairsarelocatedaroundbeautifullyfinishedtablesfromthesamesupplier. Aftisanotherbarwithboothwindowsfromwhichpassengersonthexternaldeckareserved.
+TheAustalcatamaranispoweredbyfourCumminsdiesels, eachcoupledtoaHamiltonwaterjetoproduceservicespeedsupto30knots. ThisconfigurationallowsZephyrtobeoperatedwitheithertworfourengines, providingtwodistinctservicespeedstomatchthevessel'svariedoperatingprofiles. Noiselevelsonboardarextremelylowevenatopspeedandwhencruisingtheharbourthenginesareclaimedtobebarelynoticeable.
+ThevesselisoperatedfromacomfortablyfurnishedbridgecompletewithtwoBostromhelmseatsfromwhichthecrewcanworkstate-of-the-artnavigationequipment. Wingstationcontrolsarealsoprovided.
+TECHNICALPARTICULARS
+Length, oa....................................................................43.5m
+Length, bp ...................................................................37.4m
+Breadthmoulded.........................................................11.5m
+Depth, moulded.............................................................3.5m
+Design, draught.............................................................1.4m
+Design, deadweight...........................................69.85tonnes
+Speed, service......................................................upto30knots
+Maxspeed.........................................30knotsat100% MCR
+Range .........................................................................750nm
+Dailyfuelconsumption.........0.72tonnes/hourat100% MCR
+ClassificationSocietyandNotations.......DetNorskeVeritas
+Otherimportantinternationalregulationscompliedwith.....CFR46SubchapterK - lakesbaysandsoundsMainengines
+Make ..................................................................Cummins
+Model................................................................KTA38-M2
+Number ...........................................................................4
+Outputofeachengine ..................895kWat1800rev/minGearboxes
+Make.....................................................................Reintjes
+Model............................................................WVS440DL
+Number ...........................................................................4Gensets
+Number ...........................................................................4
+Make/type........................................Cummins6CTA8.3-D
+Output/speedofeachset ....................................173kWeWaterjets
+Make ............................................................Hamilton571
+Number ...........................................................................4Bridgelectronics
+Radarsmake/model....................................Furuno21355
+Autopilotmake/model ...............................ComNav200
+GPSmake/model ..............................................GP1900c
+Enginemonitoring..............................................Cummins
+Firedetection.......................................................AFP-200Complement
+Crew................................................................................6
+Passengers...........464 (CertificateofInspectionfor600)
+ZEPHYR: LargestcatsofarforUSbuilder
